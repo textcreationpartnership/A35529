@@ -1,0 +1,1593 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heaven opened, and the pains of purgatory avoided by the very great indulgences of the two most illustrious archconfraternities : the one of our Blessed Lady, called the Rosary, and the other of the seraphical father, St. Francis, called, The cord of the Passion.</title>
+            <author>Cyprien, de Gamaches, ca. 1599-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 142 KB of XML-encoded text transcribed from 79 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35529</idno>
+            <idno type="STC">Wing C7715</idno>
+            <idno type="STC">ESTC R17286</idno>
+            <idno type="EEBO-CITATION">11738437</idno>
+            <idno type="OCLC">ocm 11738437</idno>
+            <idno type="VID">48468</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48468)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 487:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heaven opened, and the pains of purgatory avoided by the very great indulgences of the two most illustrious archconfraternities : the one of our Blessed Lady, called the Rosary, and the other of the seraphical father, St. Francis, called, The cord of the Passion.</title>
+                  <author>Cyprien, de Gamaches, ca. 1599-1679.</author>
+               </titleStmt>
+               <extent>[10], 133 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedicatory signed : F. Cyprien Capucin, Chaplaine to the Queen Mother.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary, --  Blessed Virgin, Saint --  Cult.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48468:1"/>
+            <pb facs="tcp:48468:1"/>
+            <p>HEAVEN OPENED, And the Pains of Purgatory AVOIDED, BY THE Very great Indulgences Of the two moſt Illuſtrious <hi>Arch-Confraternities:</hi> The One Of our Bleſſed Lady, called the ROSARY, And the Other Of the Seraphical Father S<hi rend="sup">t</hi>. <hi>FRANCIS,</hi> called, The Cord of the Paſſion.</p>
+            <p>Printed in the Year, 1663.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:48468:2"/>
+            <pb facs="tcp:48468:2"/>
+            <head>TO THE RIGHT HONOURABLE AND MOST REVEREND THE LORD <hi>Walter Mountague,</hi> Great Almoner to the QUEEN Mother. And Abbot of St. <hi>Martin,</hi> and <hi>Nantheüil</hi> in <hi>France,</hi>
+            </head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His little Trea<g ref="char:EOLhyphen"/>tiſe is due to your Lordſhip and to none elſe. For it containeth wonderful Priviledges,
+<pb facs="tcp:48468:3"/>and eaſie Obligations of Two, not onely the moſt Noble and Excel<g ref="char:EOLhyphen"/>lent, but likewiſe the moſt Profitable <hi>Arch-Confraternities</hi> that have ever been in Gods Church, <hi>viz.</hi> The <hi>Arch-Confraternity</hi> of our Bleſ<g ref="char:EOLhyphen"/>ſed Lady, called the Ro<g ref="char:EOLhyphen"/>ſary, and the <hi>Arch-Con<g ref="char:EOLhyphen"/>fraternity</hi> of our Seraphi<g ref="char:EOLhyphen"/>cal Father Saint <hi>Francis.</hi> Though the whole Church of <hi>Somerſet<g ref="char:EOLhyphen"/>houſe,</hi>
+               <pb facs="tcp:48468:3"/>and the Riches and Ornaments which raiſe its Splendor, pub<g ref="char:EOLhyphen"/>liſh to the World, the Queen Mothers great Piety: Yet notwithſtan<g ref="char:EOLhyphen"/>ding the Chappel of the holy Roſary is in ſome ſort Yours, by a ſpecial Grant from Her Maje<g ref="char:EOLhyphen"/>ſty. It ſeemes there was an Holy ſtrife between Her Royal Zeal, and Your excellent Fervor concerning the Decora<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:48468:4"/>of that moſt Sacred Place: And after ſo Vertuous a Conteſt, the Queens Humility ſuffer<g ref="char:EOLhyphen"/>ed it ſelf to be overcome by Your Fervour, con<g ref="char:EOLhyphen"/>deſcending that Your Pious Devotion to our Bleſſed Lady, ſhould cauſe You even in your abſence, to adorn and enrich that <hi>Auguſt Chap<g ref="char:EOLhyphen"/>pel</hi> at Your proper Coſt. Now for us <hi>Capucins,</hi> ſince we have the Honor
+<pb facs="tcp:48468:4"/>to wear the holy Weed of S<hi rend="sup">t</hi>. <hi>Francis,</hi> to profeſs his Rule, and to be his Children; and You, my Lord, as Her Majeſties Great Almoner, being our Superiour, You are likewiſe Superiour of the <hi>Arch-Confraternity</hi> of our Seraphical Father. This little Book therefore be<g ref="char:EOLhyphen"/>ing in ſo many reſpects due to You, it would be an act of Injuſtice to offer it to any other. To avoid
+<pb facs="tcp:48468:5"/>which, I here preſent it to Your Lordſhip, and with it, the hearty ſervi<g ref="char:EOLhyphen"/>ces, reſpects, and ſubmiſ<g ref="char:EOLhyphen"/>ſions of all the <hi>Capucins,</hi> and particularly of</p>
+            <closer>
+               <salute>My LORD,</salute>
+               <signed>
+                  <hi>Your moſt humble and obedi<g ref="char:EOLhyphen"/>ent Servant,</hi> F. Cyprien, <hi>Capucin, Chaplaine to the Queen Mother.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:48468:5"/>
+            <head>THE PREFACE.</head>
+            <p>THe Queen Mothers Extra<g ref="char:EOLhyphen"/>ordinary Piety, having once more ſettled the No<g ref="char:EOLhyphen"/>ble Church of <hi>Somerſet-Houſe,</hi> hath alſo given way to the re-ſettling of the moſt Illuſtrious Arch-Confraternity of our Bleſſed Lady, commonly called the Roſary; in which, about Thirty years ago, She was at her own deſire Enrol<g ref="char:EOLhyphen"/>led; her humility being ſuch, that She vouchſafed to be called a Si<g ref="char:EOLhyphen"/>ſter of the ſame. But this is not
+<pb facs="tcp:48468:6"/>ſufficient; it is moreover requiſite, that the wonderful Priviledges and eaſie Obligations of that holy Arch-confraternity ſhould be made known. I being reſolved there<g ref="char:EOLhyphen"/>fore to ſet them forth, happily met with a Book concerning that mat<g ref="char:EOLhyphen"/>ter, written and publiſhed by a Pious and Learned Prieſt of the Order of St. <hi>Bennet,</hi> out of which I have collected what was neceſ<g ref="char:EOLhyphen"/>ſary for our purpoſe, and diſpo<g ref="char:EOLhyphen"/>ſed it as followeth.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:48468:6"/>
+            <head>HEAVEN OPENED, And the Pains of Purgatory AVOIDED, &amp;c.</head>
+            <div type="section">
+               <head>The Eminency and Holineſs of our <hi>Bleſſed Lady.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Perfections, Attri<g ref="char:EOLhyphen"/>butes, Priviledges, and Prerogatives of our Bleſ<g ref="char:EOLhyphen"/>ſed Lady are ſuch, and ſo great, that it is im<g ref="char:EOLhyphen"/>poſſible for any one in this world (I will not ſay to expreſs, but even) to comprehend them. Ne<g ref="char:EOLhyphen"/>vertheleſs, that we may conceive ſome<g ref="char:EOLhyphen"/>thing
+<pb facs="tcp:48468:7"/>
+                  <pb facs="tcp:48468:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:48468:8"/>
+                  <pb facs="tcp:48468:8"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:48468:9"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:48468:9"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:48468:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:48468:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:48468:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:48468:11"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:48468:12"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="1" facs="tcp:48468:12"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:48468:13"/>thereof, let us conſider,</p>
+               <p n="1">1. That She was Appointed, De<g ref="char:EOLhyphen"/>ſigned, and Predeſtinated by the Ho<g ref="char:EOLhyphen"/>ly Trinity from all Eternity, to be the Worthy Mother of the Word Incarnate.</p>
+               <p n="2">2. That her Birth was not only prae<g ref="char:EOLhyphen"/>figured, promiſed, and propheſied of, but foretold alſo by an Angel appear<g ref="char:EOLhyphen"/>ing to her ſterile Parents immediately before her Conception.</p>
+               <p n="3">3. That being born free from all ſin, ſhe led a life ſo full of Sanctity, ſo ſin<g ref="char:EOLhyphen"/>gular in all Purity, ſo excellent in all Perfections, that ſhe deſerved (ſaith St. <hi>Augustine</hi>) through Her Creators Mercy, to be choſen the Mother of Gods Son.</p>
+               <p n="4">4. That ſhe was a Mother, yet re<g ref="char:EOLhyphen"/>maining a Virgin, even the Mother of God, which is an Attribute alone, con<g ref="char:EOLhyphen"/>taining whatſoever is Great, Glorious, and Excellent. St. <hi>Gregory Neoceſarienſis</hi> in his ſecond Sermon of the Anuntia<g ref="char:EOLhyphen"/>tion, ſaith, That the ſenſe of this only Word, Gods Mother, exceeds all other Encomiums which Men or Angels can confer upon Her. Being Gods Mo<g ref="char:EOLhyphen"/>ther,
+<pb n="3" facs="tcp:48468:13"/>She is United to a term of an In<g ref="char:EOLhyphen"/>finite perfection, and in a certain man<g ref="char:EOLhyphen"/>ner Elevated to a Divine Order, ſaith St. <hi>Thomas, par.</hi> 1. <hi>qu.</hi> 25. <hi>art.</hi> 6. <hi>ad.</hi> 4. Saint <hi>Chryſoſtome</hi> in his Sermon of the Bleſſed Virgin, calleth her the Miracle, and the Miracle of Miracles. And Saint <hi>John Damaſcen,</hi> in his firſt Oration of the Nativity of the Bleſſed Virgin, an Abyſſe of Miracles.</p>
+            </div>
+            <div type="section">
+               <head>The Chriſtians Devotion to our Bleſſed Lady.</head>
+               <p>THe Devotion of all faithful Chri<g ref="char:EOLhyphen"/>ſtians towards the Holy Virgin Mary, is as Antient as our Faith and Chriſtianity it ſelf, She being Conſti<g ref="char:EOLhyphen"/>tuted our Mother, by the bequeſt of her Bleſſed Son, when on the Croſs he uttered theſe words to St. <hi>John,</hi> and in his perſon, to all Chriſtians: <hi>Son, be<g ref="char:EOLhyphen"/>hold thy Mother;</hi> whereupon St. <hi>Bernard</hi> ſaith, If Mary be thy Mother, O Chri<g ref="char:EOLhyphen"/>ſtian, then is Jeſus thy Brother; then Chriſts Father, is thy Father; then his Heaven, is thy Inheritance; then Maries
+<pb n="4" facs="tcp:48468:14"/>Grace is thy Treaſure, for Mothers u<g ref="char:EOLhyphen"/>ſually lay up treaſures for their Chil<g ref="char:EOLhyphen"/>dren: then ſhe is ſenſible of all thy ſuf<g ref="char:EOLhyphen"/>ferings, ſolicitous to ſupply thy wants, and careful to provide for thy neceſſi<g ref="char:EOLhyphen"/>ties, for a Mother is tender over her Children; therefore, O Chriſtian, make choice of <hi>Mary</hi> for thy Mother.</p>
+               <p>I well know (ſaith the antient Father <hi>Theophylact</hi>) that thou, O moſt glorious Queen Mother, art the great Protectrix of mankind; and who is he, that ha<g ref="char:EOLhyphen"/>ving placed his confidence in thee, hath remained confounded? Let us therefore to her make our humble addreſſes in all our neceſſities, ſince ſhe is ſo powerful to aſſiſt us, ſo merciful to admit us, and ſo ready to relieve us.</p>
+               <p>
+                  <hi>O Beatiſſima</hi> (ſaith S. <hi>Anſelm,</hi> Arch-Bp. of <hi>Cant.) ſicut omnis à te averſus &amp; à te de ſpectus neceſſe eſt ut intereat, ita omnis ad te converſus &amp; à te reſpectus impoſſibile eſt ut pereat.</hi> As he, O moſt bleſſed <hi>Mary,</hi> muſt needs periſh, who turneth his back to thee, and whom thou rejecteſt from thy favours, ſo it is impoſſible, that he ſhould periſh, that is zealous of thy ho<g ref="char:EOLhyphen"/>nour, and whom thou vouchſafeſt to behold and countenance.</p>
+               <pb n="5" facs="tcp:48468:14"/>
+               <p>I hold (ſaith <hi>Origen</hi>) as an aſſured verity; that the Virgin <hi>Mary</hi> will ne<g ref="char:EOLhyphen"/>ver abandon that perſon that implores her aſſiſtance in the time of his neceſ<g ref="char:EOLhyphen"/>ſity; for ſhe is full of goodneſs, full of mercy, and full of grace, and therefore cannot refuſe to compaſſionate him that calleth upon her.</p>
+            </div>
+            <div type="section">
+               <head>The Practiſe of the <hi>Roſary,</hi> is an excellent Devotion to our Bleſ<g ref="char:EOLhyphen"/>ſed Lady.</head>
+               <p>IF we conſider the holy Roſary Pre<g ref="char:EOLhyphen"/>rogatives, we ſhall find that it far ex<g ref="char:EOLhyphen"/>ceeds all other ſorts of devotion of this nature. Though every zealous Chri<g ref="char:EOLhyphen"/>ſtian may ſo duly, diligently, and with ſuch perſeverance practiſe his devoti<g ref="char:EOLhyphen"/>ons in his own private Oratory, as to arrive at the perfection of vertue and the ſalvation of his ſoul; yet theſe heights are not there obtained with that alacrity, facility, ſecurity and abun<g ref="char:EOLhyphen"/>dance, as in conjunction with ſacred Confraternities, which are the Aca<g ref="char:EOLhyphen"/>demies of Devotion, Schools of San<g ref="char:EOLhyphen"/>ctity, and Buttreſſes of Religion, Pie<g ref="char:EOLhyphen"/>ty
+<pb n="6" facs="tcp:48468:15"/>and Perfection, where the fervour and good example of his faithful aſſo<g ref="char:EOLhyphen"/>ciates, will warm his tepidity, excite his piety, adde continual fewel of cou<g ref="char:EOLhyphen"/>rage and conſtancy to his reſolutions, and make him partaker of many Pray<g ref="char:EOLhyphen"/>ers, Merits, and ſpiritual Graces. <hi>Dum ſinguli orant pro omnibus, omnes orant pro ſingulis.</hi> When as every ſingle perſon pray for all, it followeth that all pray for every ſingle perſon, ſaith St. <hi>Ambroſe.</hi> The Brethren and Siſters of theſe Con<g ref="char:EOLhyphen"/>fraternities being any where received, are every where priviledged, and ſo made happy partakers of the ſpiritual perfections of all thoſe perſons, who are regiſtred either in <hi>Rome,</hi> in <hi>Paris,</hi> or in any other part of the world.</p>
+               <p>To come now in particular to the Confraternity of the <hi>Roſary.</hi> Surely that manner of Prayer cannot but be very pleaſing to God, profitable to our ſelves, and grateful to the Bleſſed Vir<g ref="char:EOLhyphen"/>gin, which directly tendeth to the ad<g ref="char:EOLhyphen"/>vancement of the Divine Honour, the promotion of our own Happineſs, and the encreaſe of the Sacred Mothers glory. Now the exerciſes of the Ro<g ref="char:EOLhyphen"/>ſary
+<pb n="7" facs="tcp:48468:15"/>aim at theſe three heroick ends. For</p>
+               <p n="1">1. Since the <hi>Roſary</hi> conſiſts of the two richeſt pieces of Chriſtian Piety, <hi>viz.</hi> the <hi>Pater noſter</hi> and <hi>Ave Maria,</hi> to<g ref="char:EOLhyphen"/>gether with the principal myſteries of our Chriſtian Faith, what Subject can be imagined more proper? What Ob<g ref="char:EOLhyphen"/>ject can poſſibly be more powerful to raiſe our ſouls to the love, praiſe, &amp; ho<g ref="char:EOLhyphen"/>nour of our Creator &amp; Redeemer, then the due and daily conſideration of thoſe Divine myſteries, which are, as it were the Sacred Tables, and lively Pictures, repreſenting continually to our memo<g ref="char:EOLhyphen"/>ries their admirable benefits, exceſſive love, and infinite liberality to mankind?</p>
+               <p n="2">2. By what Prayers can we more confidently promiſe to our ſelves the obtaining of our juſt deſires, and con<g ref="char:EOLhyphen"/>ſequently, the promoting of our Sal<g ref="char:EOLhyphen"/>vation, then by the <hi>Pater noſter,</hi> a pray<g ref="char:EOLhyphen"/>er dictated by our Redeemers own Di<g ref="char:EOLhyphen"/>vine Mouth, enjoyned by his ſpecial command, to be frequently uſed of all faithful Chriſtians, and by him endued with ſo great efficacy and vertue?</p>
+               <p n="3">3. By what Ladder of Praiſe can we more probably reach the glorious Vir<g ref="char:EOLhyphen"/>gin
+<pb n="8" facs="tcp:48468:16"/>Moihers perfections, then by the <hi>Ave-Mary,</hi> a Salutation framed in Hea<g ref="char:EOLhyphen"/>ven by the holy Trinity it ſelf, and from thence brought down to earth by it's Ambaſſador the Angel <hi>Gabriel,</hi> in which, all the Greatneſs, Excellency, and Prerogatives of Gods Mother, are ſo briefly, diſtinctly, and Divinely Couched?</p>
+            </div>
+            <div type="section">
+               <head>The Author of the <hi>Roſary.</hi>
+               </head>
+               <p>THe Author of the <hi>Roſary,</hi> in the particular method and manner wherein we now recite it, and the be<g ref="char:EOLhyphen"/>ginner of this Sacred Confraternity was St. <hi>Dominick,</hi> as appears by the Bull of <hi>Pius quintus</hi> in theſe words; The bleſſed St. <hi>Dominick,</hi> directed (as is pi<g ref="char:EOLhyphen"/>ouſly believed) by Gods Holy Spirit, when <hi>France</hi> and <hi>Italy</hi> were miſerably overſpread with the Hereſie of the <hi>Albi<g ref="char:EOLhyphen"/>genſes,</hi> lifting up his eyes to Heaven, and beholding that Mountain, the Glo<g ref="char:EOLhyphen"/>rious Virgin <hi>Mary,</hi> Gods holy Mother, invented and propagated, a very eaſie, plain, and pious method of Prayer, &amp;c.</p>
+            </div>
+            <div type="section">
+               <pb n="9" facs="tcp:48468:16"/>
+               <head>The Name and manner of Recital of the <hi>Roſary.</hi>
+               </head>
+               <p>THis Devotion hath ſeveral Names, ſome having reference to the num<g ref="char:EOLhyphen"/>ber of Salutations therein contained, call it the Virgin <hi>Maries</hi> Pſalter, in imitation of the Pſalter of <hi>David,</hi> con<g ref="char:EOLhyphen"/>ſiſting of the ſame number of Pſalms, <hi>viz.</hi> an hundred and fifty. Or alluding to that muſical Inſtrument, by the An<g ref="char:EOLhyphen"/>cient Grecians called <hi>Organum,</hi> and by the later <hi>Pſalterium,</hi> compoſed of an hundred and fifty pipes, (the juſt num<g ref="char:EOLhyphen"/>ber of theſe our Salutations) on which the Pſalms of <hi>David</hi> were uſually ſung to the Divine Praiſe and Honour.</p>
+               <p>Others call it by the now commonly received denomination of the <hi>Roſary,</hi> and that moſt properly, for as a <hi>Roſary</hi> litterally ſignifieth a place beſet with odoriſerous Roſes; ſo this our <hi>Roſary,</hi> myſtically betokeneth the ſweet fra<g ref="char:EOLhyphen"/>grancy which repleniſheth their Souls who devoutly praiſe the Divine Majeſty, and honour the Virgin <hi>Mary.</hi> The <hi>Ro<g ref="char:EOLhyphen"/>ſary</hi>
+                  <pb n="10" facs="tcp:48468:17"/>then is a certain peculiar manner of offering up our prayers to the Di<g ref="char:EOLhyphen"/>vine Majeſty, in honor of his holy Mo<g ref="char:EOLhyphen"/>ther, by the recital of one hundred and fifty Angelical Salutations, prefixed to each ten of them the Lords Prayer, with a Meditation upon one of the Myſteries of our Saviour, or our bleſſed Lady.</p>
+               <p>Theſe Myſteries are in all fifteen, whereof five are called Joyful, five Sor<g ref="char:EOLhyphen"/>rowful, and five Glorious. The Joy<g ref="char:EOLhyphen"/>ful are 1. The Annunciation of the An<g ref="char:EOLhyphen"/>gel, 2. The Viſitation of St. <hi>Elizabeth,</hi> 3. The Nativity of our Lord, 4. His Preſentation in the Temple, 5. His Diſputing, being a Child, with the Do<g ref="char:EOLhyphen"/>ctors. The five Sorrowful, are 1 Chriſts Agony in the Garden, 2. His Whip<g ref="char:EOLhyphen"/>ping at the Pillar, 3. His Crowning with Thorns, 4. His carrying of the Croſs, 5. His Crucifying and Death. The five glorious, are, 1. The Reſur<g ref="char:EOLhyphen"/>rection of our Lord, 2. His Aſſenſion, 3. The coming of the Holy Ghoſt, 4. The Aſſumption of our bleſſed Lady, 5. Her Crowning above all Angels.</p>
+            </div>
+            <div type="section">
+               <pb n="11" facs="tcp:48468:17"/>
+               <head>The Excellency of the <hi>Roſary.</hi>
+               </head>
+               <p>ALL that can make any Aſſociation excellent is in this Confraternity, Antiquity, Extent, Generality, eaſi<g ref="char:EOLhyphen"/>neſs, Spiritual profit, large community of Merits, vaſt treaſures of Indulgen<g ref="char:EOLhyphen"/>cies, &amp;c. <hi>Antiquity,</hi> of above four hun<g ref="char:EOLhyphen"/>dred years. <hi>Extent,</hi> being ſpread over the whole habitable world, acknowledg<g ref="char:EOLhyphen"/>ing no other limits, then thoſe which bound the Univerſal <hi>Catholick</hi> Church. <hi>Generality,</hi> no perſon being excluded from it's participation. <hi>Eaſineſs,</hi> requi<g ref="char:EOLhyphen"/>ring no more knowledge, then the skill to recite the <hi>Pater</hi> and <hi>Ave,</hi> no more expences than the priſe of a paire of Beads, no other place than where every one lives, no other ſcite of body, than that in which Devotion finds us, whe<g ref="char:EOLhyphen"/>ther it be ſtanding, ſitting, lying, wal<g ref="char:EOLhyphen"/>king or kneeling. <hi>Spiritual profit,</hi> firſt in reſpect of the eſpecial Patronage and Protection of the Bleſſed Virgin; for though She is a careful Mother of all faithful Chriſtians, yet ſurely She is more tenderly ſolicitous for the dome<g ref="char:EOLhyphen"/>ſticks
+<pb n="12" facs="tcp:48468:18"/>of Her Family, more heedfully diligent for the advancement of Her devoted Servants, more ſeriouſly ſtu<g ref="char:EOLhyphen"/>dious for the good of Her dutiful Chil<g ref="char:EOLhyphen"/>dren. Secondly, in reſpect of the com<g ref="char:EOLhyphen"/>munity of Merits amongſt the Members of this Sacred ſociety; for it is a point of our Faith, that the Merits of all the Saints, are common to all faithful Chri<g ref="char:EOLhyphen"/>ſtians; that there is a communication between the Church militant upon Earth, and the Church ſuffering in Purgatory, and the Church Trium<g ref="char:EOLhyphen"/>phant in Heaven. But beſides this ge<g ref="char:EOLhyphen"/>neral communication of ſpiritual goods and merits among all faithful Chriſti<g ref="char:EOLhyphen"/>ans, there is another bank in the bo<g ref="char:EOLhyphen"/>dies of Confraternities, common to them alone who are of their particular Family and Community, and from whence all the influences of Graces and Bleſſings which Heaven imparts to this whole body, inflow into each one of its Members. Now, what an immenſe profit is it to have a part in all the zea<g ref="char:EOLhyphen"/>lous Prayers, Meditations, actual Cha<g ref="char:EOLhyphen"/>rity, and exerciſes of Vertue and Piety, performed in a whole Confraternity?
+<pb n="13" facs="tcp:48468:18"/>all which, entring into common, and making one only depoſitum, redound to each particular Members ſpiritual profit and advantage. ſo that when any one of us offers up his Prayers to the Throne of Mercy, he prayes (as it were) by as many mouths as there are Bre<g ref="char:EOLhyphen"/>thren and Siſters in the whole Confra<g ref="char:EOLhyphen"/>ternity; now, what an incredible force muſt this needs add to our Petitions? How can a juſt demand, preſented by ſo many pious Souls, ſent up to Heaven by ſo many humble hearts, pronoun<g ref="char:EOLhyphen"/>ced by ſo many devout Tongues, ſuffer a repulſe? Beſides, what an ineſtimable profit is it to have a ſhare of Merits in ſo many Divine Sacrifices of the Maſſe, celebrated through the whole world, yearly, monthly, weekly, daily to Gods Glory, to his Mothers Honour, to his Saints praiſes, to the ſolace of the liv<g ref="char:EOLhyphen"/>ing, to the ſuccor of the dead? Ano<g ref="char:EOLhyphen"/>ther profit of great importance, is a confidence, a comfort, and a kind of ſecurity in the article of death. Death is commonly bitter for the ceſſation of all pleaſures, dangerous for the Devils temptations, dreadful for the ſevere
+<pb n="14" facs="tcp:48468:19"/>Judgment immediately enſuing: but to the Members of this ſacred Confrater<g ref="char:EOLhyphen"/>nity death is not ſo bitter, becauſe long before expected, prevented, pro<g ref="char:EOLhyphen"/>vided for, the Devils temptations are not to them ſo dangerous, becauſe the daily uſe of their Spiritual weapons, renders the expert in theſe combats, able to foil their adverſaries, and expe<g ref="char:EOLhyphen"/>rienced to defend themſelves: The ap<g ref="char:EOLhyphen"/>prehenſion of Gods Judgments is not to them ſo dreadful, becauſe they con<g ref="char:EOLhyphen"/>tinually think of them, and according<g ref="char:EOLhyphen"/>ly order their life and actions, diſ<g ref="char:EOLhyphen"/>charge their conſciences of ſin, pra<g ref="char:EOLhyphen"/>ctice works of piety, and endeavour to acquire the Sacred Virgins favour, in hope to have Her their Friend and Ad<g ref="char:EOLhyphen"/>vocate, which is ſurely the beſt way to die with ſafety and ſecurity. So the Devotion to our Bleſſed Lady in this Confraternity, is a probable ſign of be<g ref="char:EOLhyphen"/>ing predeſtinated to eternal felicity: with the holy, you ſhall be holy, (ſaith the Pſalmiſt) and with the elect, elect<g ref="char:EOLhyphen"/>ed; but what better ſign of holineſs, what ſurer token of Election can one have in this life, then to be aſſociated
+<pb n="15" facs="tcp:48468:19"/>with ſo many good ſouls, aſpiring zea<g ref="char:EOLhyphen"/>louſly, and unanimouſly to piety, to perfection, to ſalvation?</p>
+               <p>Another Spiritual profit that all Chriſtians ought to look after, conſiſts in the ſeveral, and very great Indul<g ref="char:EOLhyphen"/>gences following.</p>
+            </div>
+            <div type="section">
+               <head>Of the Indulgences conferred up<g ref="char:EOLhyphen"/>on the Confraternity of the <hi>Roſary.</hi>
+               </head>
+               <p>WE ſhall mention none but ſuch as are expreſly avouched by appro<g ref="char:EOLhyphen"/>ved and authentical Authors, and di<g ref="char:EOLhyphen"/>rectly drawn out of the Popes Bulls and Indults, omitting the multitude of leſs Indulgences which remit certain days, years, and quarantines of enjoyned pe<g ref="char:EOLhyphen"/>nances, and ſet down the plenary Indulgences.</p>
+               <div n="1" type="subsection">
+                  <head>I. <hi>At their firſt Admittance.</hi>
+                  </head>
+                  <p>UPon the day that any one is firſt received and Enroled into the Sa<g ref="char:EOLhyphen"/>cred
+<pb n="16" facs="tcp:48468:20"/>Confraternity of the <hi>Roſary,</hi> ha<g ref="char:EOLhyphen"/>ving confeſſed, and communicated, and recited a third part of the <hi>Roſary,</hi> and prayed for the peace and tranquility of the Church, he gains a plenary Indul<g ref="char:EOLhyphen"/>gence, and remiſſion of all his ſins.</p>
+                  <p>
+                     <hi>Pius quintus</hi> in his Bull, <hi>conſueverunt Romani pontifices,</hi> 27. of Sept. 1559.</p>
+               </div>
+               <div n="2" type="subsection">
+                  <head>II. <hi>At their own Choiſe.</hi>
+                  </head>
+                  <p>ANy Member of the <hi>Roſary,</hi> hath the liberty once in his life, and at the Articles of his Death, to make uſe of any Ghoſtly Father, who is im<g ref="char:EOLhyphen"/>powered to confer upon him a plenary Indulgence.</p>
+                  <p>
+                     <hi>Innocentius octavus,</hi> 15. Octob. 1484.</p>
+               </div>
+               <div n="3" type="subsection">
+                  <head>III. <hi>At the hour of Death.</hi>
+                  </head>
+                  <p>IN the hour, Agony, and Article of Death.</p>
+                  <p n="1">1. Being confeſſed, and communi<g ref="char:EOLhyphen"/>cated a plenary Indulgence, <hi>Pius quin<g ref="char:EOLhyphen"/>tus Conſueverunt,</hi> 27. Sept. 1557.</p>
+                  <p n="2">2. Or ſaying (with mouth, or in heart) <hi>Jeſus Maria,</hi> a plenary.</p>
+                  <p n="3">
+                     <pb n="17" facs="tcp:48468:20"/>3. Or calling thrice (either by mouth or in heart) upon the Holy Name of Jeſus, a plenary. <hi>Pius quin<g ref="char:EOLhyphen"/>tus, Greg.</hi> 13. <hi>Clem.</hi> 8.</p>
+                  <p n="4">4. Or having a bleſſed Candle of the Confraternity in their hand, in ho<g ref="char:EOLhyphen"/>nour of the Bleſſed Virgin <hi>Mary,</hi> at the time of their departure, a plenary.</p>
+                  <p>
+                     <hi>Adrianus Sextus, Illius qui Domini<g ref="char:EOLhyphen"/>cum, cal. Aprilis,</hi> 1523. Who is cited and confirmed by <hi>Clement</hi> the ſeventh <hi>Ineffabilia</hi> 10. <hi>cal. Aprilis,</hi> 1529.</p>
+                  <p>To gain which indulgence, the third part of the <hi>Roſary</hi> muſt have been (at leaſt once recited in the Chappel of the <hi>Roſary,</hi> or in ſome place where the re<g ref="char:EOLhyphen"/>citer thereof might have a view of the <hi>Roſary</hi> Altar, as appears by the colla<g ref="char:EOLhyphen"/>tions of the words of the Popes grants, and by the ends for which they grant this priviledge, to wit, that the <hi>Roſa<g ref="char:EOLhyphen"/>rists</hi> may ſhew more reverence and re<g ref="char:EOLhyphen"/>ſpect to their Mothers Altar, and often viſit it with more Devotion, all which is to be underſtood, where theſe conve<g ref="char:EOLhyphen"/>niencies may be obtained; otherwiſe they may perform theſe devotions, and obtain the like Indulgencies in any o<g ref="char:EOLhyphen"/>ther
+<pb n="18" facs="tcp:48468:21"/>Church or Oratory according to the expreſs diſpenſation of the ſaid Popes.</p>
+               </div>
+               <div n="4" type="subsection">
+                  <head>IV. <hi>Every firſt Sunday within the Month.</hi>
+                  </head>
+                  <p n="1">1. HAving confeſſed and communi<g ref="char:EOLhyphen"/>cated a plenary. <hi>Greg.</hi> 13. <hi>Paſto<g ref="char:EOLhyphen"/>ris aeterni die quinta Maii,</hi> 1581.</p>
+                  <p n="2">2. Or viſiting the Altar of the <hi>Roſary</hi> a plenary, <hi>Greg.</hi> 13.</p>
+                  <p n="3">3. Or being preſent at the Proceſſion of the <hi>Roſary</hi> a plenary. <hi>Greg.</hi> 13. <hi>Ad augendam,</hi> 28. <hi>Octob.</hi> 1577. <hi>Paulus quin<g ref="char:EOLhyphen"/>tus Piorum hominum</hi> 15. <hi>April.</hi> 1608.</p>
+               </div>
+               <div n="5" type="subsection">
+                  <head>V. <hi>
+                        <g ref="char:V">Ʋ</g>pon the ſeven Feaſts of our Bleſſed Lady, which are:</hi>
+                  </head>
+                  <p>THe Purification, Annunciation, Viſiration, Aſſumption, Nativity, Preſentation and Conception.</p>
+                  <p n="1">1. Being confeſſed and communica<g ref="char:EOLhyphen"/>ted, or being contrite with a will to confeſs and communicate at fit time a plenary.</p>
+                  <p n="2">2. Or viſiting the Altar of the <hi>Roſary</hi> a plenary.</p>
+                  <p n="3">
+                     <pb n="19" facs="tcp:48468:21"/>3. Or being preſent at the Proceſſi<g ref="char:EOLhyphen"/>ons of the <hi>Roſary</hi> upon theſe dayes a plenary. <hi>Pius quartus Dum praeclara meritorum,</hi> 1562.</p>
+               </div>
+               <div n="6" type="subsection">
+                  <head>VI. <hi>For ſaying or hearing the</hi> Maſs <hi>of the</hi> Roſary.</head>
+                  <p n="1">1. THey who by vertue of their pri<g ref="char:EOLhyphen"/>viledges ſhall ſay the <hi>Maſs</hi> of the <hi>Roſary,</hi> gain a plenary Indulgence.</p>
+                  <p n="2">2. Or ſhall cauſe it to be ſaid a ple<g ref="char:EOLhyphen"/>nary.</p>
+                  <p n="3">3. Or hear it, gain all the Indulgen<g ref="char:EOLhyphen"/>ces which are granted to them that re<g ref="char:EOLhyphen"/>cite once the whole <hi>Roſary</hi> which is a plenary. <hi>Paulus tertius ultimo Auguſti,</hi> 1537. the ſaid <hi>Maſs</hi> of the <hi>Roſary</hi> thus begins, <hi>Salve radix ſancta, &amp;c.</hi> which grant is confirmed by <hi>Sixtus quintus, Dum ineffabilia,</hi> 3. <hi>Jan.</hi> 1586.</p>
+               </div>
+               <div n="7" type="subsection">
+                  <head>VII. <hi>For ſaying the</hi> Roſary.</head>
+                  <p>THey who ſhall recite the whole <hi>Ro<g ref="char:EOLhyphen"/>ſary,</hi> gain <hi>toties quoties</hi> a plenary. <hi>Julius</hi> 2. and <hi>Leo</hi> 10. who granted a plenary to them who recited the Crown
+<pb n="20" facs="tcp:48468:22"/>of our Lady, conſiſting of ſixty three <hi>Ave Maries,</hi> with ſeven <hi>Pater noſter's</hi> in<g ref="char:EOLhyphen"/>terpoſed; which <hi>Paul</hi> the Third com<g ref="char:EOLhyphen"/>municated and extended to all ſuch as ſhould recite the whole Roſary <hi>toties quoties.</hi>
+                  </p>
+               </div>
+               <div n="8" type="subsection">
+                  <head>VIII. <hi>For the dayes in which the fifteen Myſteries of the</hi> Roſary <hi>are celebrated.</hi>
+                  </head>
+                  <p>THey who being truly penitent, confeſſed and communicated, ſhall devoutly viſit the Chappel of the <hi>Roſary</hi> upon the dayes in which the fifteen Myſteries thereof are celebrated, gain a plenary Indulgence. <hi>Greg.</hi> 13. <hi>Paſtoris aeterni,</hi> 5. <hi>Maii</hi> 1581.</p>
+               </div>
+               <div n="9" type="subsection">
+                  <head>IX. <hi>For praying for the Dead.</hi>
+                  </head>
+                  <p n="1">1. EVery time they recite the whole <hi>Roſary</hi> for the departed, they gain the delivery of a ſoul out of Pur<g ref="char:EOLhyphen"/>gatory, <hi>Paulus</hi> 3.3. <hi>Junii</hi> 1542. gran<g ref="char:EOLhyphen"/>ted this <hi>vivae vocis oraculo,</hi> to the <hi>Roſa<g ref="char:EOLhyphen"/>riſts</hi> of the Kingdom of <hi>Spain;</hi> which <hi>Pius quintus Conſueverunt, Greg.</hi> 13. <hi>Pa<g ref="char:EOLhyphen"/>ſtoris
+<pb n="21" facs="tcp:48468:22"/>aeterni,</hi> and <hi>Sixtus quintus, Dum ineffabilia,</hi> extend to all other Confra<g ref="char:EOLhyphen"/>ternities of the <hi>Roſary</hi> throughout the world.</p>
+                  <p n="2">2. As oft as they ſhall ſay; cauſe to be ſaid, or are preſent at the <hi>Maſs</hi> of the <hi>Roſary,</hi> celebrated for that inten<g ref="char:EOLhyphen"/>tion, they free a Soul out of Purga<g ref="char:EOLhyphen"/>tory.</p>
+                  <p n="3">3. All the Indulgences granted to the living, may be applied to the dead, by communicating, ſaying <hi>Maſs</hi> of the <hi>Roſary,</hi> reciting the <hi>Roſary,</hi> &amp;c. for them, <hi>Paulus</hi> 3.13. <hi>Aug.</hi> 1537. See <hi>John Carthagen. homilia</hi> 6. <hi>de Roſario.</hi>
+                  </p>
+               </div>
+               <div n="10" type="subsection">
+                  <head>X. <hi>For them who cannot be pre<g ref="char:EOLhyphen"/>ſent.</hi>
+                  </head>
+                  <p>SUch Brethren and Siſters of the <hi>Ro<g ref="char:EOLhyphen"/>ſary,</hi> who by reaſon of ſickneſs, journey, impriſonment, perſecution, ſervice, diſtance, danger, or any other lawful impediment, cannot be preſent at the proceſſions aforeſaid, nor viſit the Altar of the <hi>Roſary,</hi> may notwith<g ref="char:EOLhyphen"/>ſtanding, gain all the indulgencies as if they were preſent.</p>
+                  <p n="1">
+                     <pb n="22" facs="tcp:48468:23"/>1. By confeſſing and communicating.</p>
+                  <p n="2">2. Or by ſaying the <hi>Roſary.</hi>
+                  </p>
+                  <p n="3">3. Or the ſeven penitential Pſalms, before ſome Altar or devout Picture. <hi>Greg.</hi> 13. <hi>Ad augendam devotionem,</hi> 29. <hi>Aug.</hi> 1579. <hi>Idem in Bulla. Cupientes.</hi> 24. <hi>Decemb.</hi> 1583.</p>
+               </div>
+               <div n="11" type="subsection">
+                  <head>XI. <hi>Of the Stations of</hi> Rome.</head>
+                  <p>ALl the Indulgences of the Stations of <hi>Rome,</hi> are granted to the Mem<g ref="char:EOLhyphen"/>bers of the <hi>Roſary,</hi> by viſiting upon theſe dayes five Altars; or one only if there be no more, and reciting before each Altar five <hi>Paters</hi> and five <hi>Aves;</hi> or twenty-five before that one Altar. <hi>Leo</hi> 10. <hi>Maii</hi> 22. 1518. which grant <hi>Cle<g ref="char:EOLhyphen"/>ment</hi> the Seventh recites and comfirms in his brief <hi>Etſi temporalium,</hi> 8. <hi>idus Maii</hi> 1534. and <hi>Paulus</hi> 3. <hi>Rationi con<g ref="char:EOLhyphen"/>gruit,</hi> 3. <hi>Novemb.</hi> 1534. and <hi>Pius</hi> 5. <hi>In<g ref="char:EOLhyphen"/>ter deſiderabilia,</hi> 28. <hi>Junii</hi> 1569.</p>
+               </div>
+               <div n="12" type="subsection">
+                  <head>XII.</head>
+                  <p>ANd theſe are the chief part of that vaſt Treaſure of Indulgences and
+<pb n="23" facs="tcp:48468:23"/>Priviledges granted to the Arch-Con<g ref="char:EOLhyphen"/>fraternity of the ſacred <hi>Roſary.</hi> The reſt being of leſs conſequence, would we conceive, be as tedious to be read, as they are indeed needleſs to be known by them who ſhall duly conſider, that beſides the particular indulgences, which are determined to certain dayes times and places, there are others which are general, unlimited, perpe<g ref="char:EOLhyphen"/>tual, and which we ſhall briefly ſet be<g ref="char:EOLhyphen"/>fore you as a cloſe of this Catalogue of Indulgences.</p>
+               </div>
+               <div n="1" type="subsection">
+                  <head>I. <hi>Every day a Plenary.</hi>
+                  </head>
+                  <p>THe firſt is, that they who are of the <hi>Roſary,</hi> in the ſtate of Grace, and having a general intention to pray for ſuch ends as are required; which are the three conditions abſolutely neceſ<g ref="char:EOLhyphen"/>ſary for the obtaining of any of theſe Indulgences, may gain a plenary upon every day in the year, and conſequent<g ref="char:EOLhyphen"/>ly every hour of their whole life, by performing any one of theſe things following:</p>
+                  <p n="1">
+                     <pb n="24" facs="tcp:48468:24"/>1. Saying the <hi>Roſary.</hi>
+                  </p>
+                  <p n="2">2. Celebrating the Maſs of the <hi>Ro<g ref="char:EOLhyphen"/>ſary.</hi>
+                  </p>
+                  <p n="3">3. Cauſing it to be ſaid.</p>
+                  <p n="4">4. Hearing it.</p>
+                  <p n="5">5. Viſiting five Altars, or one if there be no more, and ſaying five <hi>Paters</hi> and <hi>Aves</hi> before each Alttar, or 25. before the one.</p>
+                  <p>The Conſequence hereof is moſt clear.</p>
+                  <p n="1">1. Becauſe a plenary is annexed to the due performance of theſe acts of Piety <hi>toties quoties,</hi> how oft ſoever they are done, without any reſtriction.</p>
+                  <p n="2">2. Becauſe at <hi>Rome,</hi> in the Church of St. <hi>John Lateran,</hi> there may be gained a plenary, if any one pleaſes, ſix times every day, and in each one of the ſeven Churches of the Stations; all which, and all other City Indulgen<g ref="char:EOLhyphen"/>ces are granted to all the Brothers and Siſters of the <hi>Roſary,</hi> performing the Devotions aforeſaid, whereſoever diſ<g ref="char:EOLhyphen"/>perſed throughout the whole world by <hi>Leo</hi> the Tenth, 22. <hi>Maii</hi> 1518. and by the ſucceeding chief Paſtors.</p>
+               </div>
+               <div n="2" type="subsection">
+                  <pb n="25" facs="tcp:48468:24"/>
+                  <head>II. <hi>Every day a Soul out of Purgatory.</hi>
+                  </head>
+                  <p>THe ſecond is, that they may every day, praying and being diſpoſed as aforeſaid, obtain the deliverance of a ſoul out of Purgatory; which direct<g ref="char:EOLhyphen"/>ly follows from the former: Firſt, ſince all the Indulgences granted to the liv<g ref="char:EOLhyphen"/>ing may be applyed to the dead. Se<g ref="char:EOLhyphen"/>condly, ſince at <hi>Rome</hi> there is every day in one part or other of the City, the delivery of a ſoul out of Purgatory.</p>
+                  <p>The particular grants of all theſe before recited Indulgences, may be ſeen at large in <hi>Peter Louvet, Aiphonſus Fernandez, Andreas Coppentanius,</hi> and other Fathers of the Order of St. <hi>Do<g ref="char:EOLhyphen"/>minick,</hi> who faithfully collected and publiſhed them according to their Ori<g ref="char:EOLhyphen"/>ginals.</p>
+                  <p>
+                     <hi>Miſericordias Domini in aeternum can<g ref="char:EOLhyphen"/>tabo.</hi>
+                  </p>
+                  <q>
+                     <l>Our grateful hearts, O our Eter<g ref="char:EOLhyphen"/>nal King!</l>
+                     <l>Shall ever of your boundleſs mer<g ref="char:EOLhyphen"/>cies ſing.</l>
+                  </q>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="26" facs="tcp:48468:25"/>
+               <head>How theſe Indulgences are to be gained by the Members of the <hi>Roſary.</hi>
+               </head>
+               <p>FIrſt, theſe Indulgences are not in<g ref="char:EOLhyphen"/>differently obtained by all ſorts of perſons, but by ſuch only as have duly and diligently purified, prepared, and diſpoſed their ſouls to receive them by precedent penance, or have led their lives in ſuch innocency ſince their laſt Confeſſion, as that they continue in the ſtate of Grace; or have made an act of contrition and deteſtation of their mortal ſins, with purpoſe of con<g ref="char:EOLhyphen"/>feſſing them in fit time, and avoiding them for the future.</p>
+               <p>Secondly, that they muſt obey ſuch other particular commands as the Bulls of Indulgences import; that is, they muſt punctually perform the en<g ref="char:EOLhyphen"/>joyned actions of Alms-deeds, Faſt<g ref="char:EOLhyphen"/>ings, Prayers, Proceſſions, Viſitations of Altars, and all other the works of Devotion and Piety there expreſſed.</p>
+               <p>Thirdly, that they muſt offer up
+<pb n="27" facs="tcp:48468:25"/>their devotions for theſe generally re<g ref="char:EOLhyphen"/>commended ends and intentions in all the conceſſions of Indulgences.</p>
+               <p n="1">1. For the encreaſe of Gods ho<g ref="char:EOLhyphen"/>nour and glory.</p>
+               <p n="2">2. For the exaltation of the Catho<g ref="char:EOLhyphen"/>lick Church.</p>
+               <p n="3">3. For the proſperity of the Sea Apoſtolick.</p>
+               <p n="4">4. For the peace of Chriſtian Princes.</p>
+               <p n="5">5. For the re-union of Schiſmaticks.</p>
+               <p n="6">6. For the Converſion of Hereticks.</p>
+               <p n="7">7. For the Correction of Sinners.</p>
+               <p n="8">8. For the Conſolation of the affli<g ref="char:EOLhyphen"/>cted, both living and departed.</p>
+            </div>
+            <div type="section">
+               <head>The conditions of this Confra<g ref="char:EOLhyphen"/>ternity.</head>
+               <p>FIrſt, all Chriſtians of whatſoever calling and condition, may be re<g ref="char:EOLhyphen"/>ceived into this Sacred Confraternity, without any obligation to pay any thing for their entrance or admittance, <hi>Leo</hi> 10. <hi>Paſtoris aeterni,</hi> 1520. <hi>pridie no<g ref="char:EOLhyphen"/>nas Octob.</hi>
+               </p>
+               <p>Secondly, there is to be a particular book provided, wherein the names and
+<pb n="28" facs="tcp:48468:26"/>ſurnames of all ſuch as are admitted, muſt be Regiſtred.</p>
+               <p>Thirdly, whoſoever is thus admitted in any one place, is made partaker of the prayers and Merits of all them that are of this Confraternity throughout the whole Univerſe.</p>
+               <p>Fourthly, not onely the living, but alſo the faithful departed, to wit, the Souls in Purgatory may be received, and enrolled in this Confraternity, and made partakers of theſe ſpiritual bene<g ref="char:EOLhyphen"/>fits, if any of the living Brethren and Siſters ſhall deſire and procure it, per<g ref="char:EOLhyphen"/>forming for their deceaſed friends, ſuch pious duties and devotions as the Rules demand.</p>
+               <p>Fifthly, all the Brothers and Siſters, are obliged to recite every week the en<g ref="char:EOLhyphen"/>tire <hi>Roſary,</hi> which they may, as them<g ref="char:EOLhyphen"/>ſelves pleaſe, either perform together, or divide into three parts for their greater eaſe and conveniency.</p>
+               <p>Sixthly, In caſe of any lawful impe<g ref="char:EOLhyphen"/>diment, the Brothers and Siſters cau<g ref="char:EOLhyphen"/>ſing the <hi>Roſary</hi> to be recited for them by another, ſatisfie their own obli<g ref="char:EOLhyphen"/>gation.</p>
+               <pb n="29" facs="tcp:48468:26"/>
+               <p>Seventhly, If through forgetfulneſs, multiplicity of employments, or neg<g ref="char:EOLhyphen"/>ligence, (and not out of contempt) they omit this weekly recital of the <hi>Ro<g ref="char:EOLhyphen"/>ſary,</hi> it is no ſin, but only for that time a privation of ſuch ſpiritual benefits, whereof they ſhould otherways have been partakers.</p>
+               <p>Eighthly, All the Roſariſts ſhould be preſent at the Maſs and Proceſſion, which are uſually performed in the head Chappel upon all the feaſt dayes of the Sacred Virgin, and firſt Sun<g ref="char:EOLhyphen"/>dayes of the month; this is injoyned by <hi>Pius quartus,</hi> in his brief, <hi>cum prae<g ref="char:EOLhyphen"/>clara.</hi>
+               </p>
+               <p>Ninthly, Four Anniverſaries are to be Celebrated every year at the <hi>Roſa<g ref="char:EOLhyphen"/>ries</hi> Altar, for the Souls of their depar<g ref="char:EOLhyphen"/>ted Brethren and Siſters, upon the mor<g ref="char:EOLhyphen"/>rows of our bleſſed Ladies four princ<g ref="char:EOLhyphen"/>pal Feſtivities, which are Her Nativity, Annunciation, Purification, Aſſump<g ref="char:EOLhyphen"/>tion; at which all the <hi>Roſariſts</hi> ſhould alſo aſſiſt, that they may expect the ſame piety for their ſurviuing brethren as for themſelves after their own de<g ref="char:EOLhyphen"/>ceaſe; when the dayes next following
+<pb n="30" facs="tcp:48468:27"/>the four Feaſts, fall out to be either Sundayes, or ſome other greater So<g ref="char:EOLhyphen"/>lemnities, then this Anniverſary duties are remitted to the next day.</p>
+               <p>Tenthly, The great Feaſt of the <hi>Ro<g ref="char:EOLhyphen"/>ſary,</hi> is not to be henceforth ſolemni<g ref="char:EOLhyphen"/>zed as it was formerly upon the five and twenty day of <hi>March,</hi> but upon the firſt Sunday of <hi>October,</hi> for an Eternal and grateful Rememoration of that moſt remarkable and altogether miraculous Naval Victory, gained over the <hi>Turks,</hi> by a handful of Chriſtians, in the bay of <hi>Lepanto,</hi> in the gulph of <hi>Acaia,</hi> upon the ſeventh day of <hi>October,</hi> which was then the firſt Sunday of that Month in the year 1571. about the end of <hi>Pius quintus</hi>'s Popedom, (who was the zea<g ref="char:EOLhyphen"/>lous promotor of this holy War) in which, twenty of the enemies Gallies were conſumed with fire, as many more ingulphed by the Waves, one hundred and fourſcore taken, the great <hi>Baſhaw,</hi> with twenty five thouſand <hi>Turkiſh</hi> Soul<g ref="char:EOLhyphen"/>diers ſlain in the place, moſt of the re<g ref="char:EOLhyphen"/>ſidue brought away Captives, twenty thouſand Chriſtians freed from their ſlavery, and the <hi>Catholick</hi> Cauſe aſſer<g ref="char:EOLhyphen"/>ted
+<pb n="31" facs="tcp:48468:27"/>from moſt eminent danger and ca<g ref="char:EOLhyphen"/>lamity; the Pope <hi>Gregory</hi> 13. in his Bull <hi>Monet Apoſtolus,</hi> attribute this great Victory to the Prayers of the devout <hi>Roſariſts,</hi> who even at that very time, were making their publick proceſſions in the ſeveral parts of Chriſtendom for this end, and imploring moſt earneſtly the Divine aſſiſtance, by the Interceſſi<g ref="char:EOLhyphen"/>on of this powerful Mother.</p>
+               <p>Eleventhly, The third Sunday of <hi>April,</hi> is alſo to be Solemnized by the devout <hi>Roſariſts,</hi> according to the grant of Pope <hi>Gregory</hi> 13. in his Bull, <hi>Cum ſi<g ref="char:EOLhyphen"/>cut accepimus, Jan.</hi> 3. 1579. The rea<g ref="char:EOLhyphen"/>ſon of the Inſtitution of this Solemni<g ref="char:EOLhyphen"/>ty, was an entire ceſſation of the ra<g ref="char:EOLhyphen"/>ging peſtilence in <hi>Padua,</hi> when the In<g ref="char:EOLhyphen"/>habitants had made a vow to erect a Chappel, which ſhould be dedicated <hi>Virgini liberatrici,</hi> after their delive<g ref="char:EOLhyphen"/>rance.</p>
+            </div>
+            <div type="litany">
+               <pb n="32" facs="tcp:48468:28"/>
+               <head>Our Bleſſed Ladies Litanies, that are ſung for their Majeſties the Queens, <hi>Henrietta Maria,</hi> and <hi>Katherina,</hi> and for all other people, all the Saturdayes, Sun<g ref="char:EOLhyphen"/>dayes, and Holy-dayes, at the Chappel-Royal of <hi>Sommerſet-houſe.</hi>
+               </head>
+               <lg>
+                  <l>KYrie eleiſon, Chriſte eleiſon, Ky<g ref="char:EOLhyphen"/>rie eleiſon, Chriſte audi nos, Chri<g ref="char:EOLhyphen"/>ſte exaudi nos.</l>
+                  <l>Pater de Caelis Deus, Miſerere nobis.</l>
+                  <l>Fili Redemptor mundi Deus, Miſe<g ref="char:EOLhyphen"/>rere nobis.</l>
+                  <l>Spiritus ſancte Deus, Miſerere nobis.</l>
+                  <l>Sancta Trinitas unus Deus, Miſere no<g ref="char:EOLhyphen"/>bis.</l>
+                  <l>Sancta Maria, Ora pro nobis.</l>
+                  <l>Sancta Dei genetrix ora</l>
+                  <l>Sancta Virgo Virginum ora</l>
+                  <l>Mater Chriſti ora</l>
+                  <pb n="33" facs="tcp:48468:28"/>
+                  <l>Mater divinae gratiae ora</l>
+                  <l>Mater puriſſima ora</l>
+                  <l>Mater Caſtiſſima ora</l>
+                  <l>Mater Inviolata ora</l>
+                  <l>Mater Intemerata ora</l>
+                  <l>Mater amabilis ora</l>
+                  <l>Mater admirabilis ora</l>
+                  <l>Mater Creatoris ora</l>
+                  <l>Mater Salvatoris ora</l>
+                  <l>Virgo Prudentiſſima ora</l>
+                  <l>Virgo veneranda ora</l>
+                  <l>Virgo Praedicanda ora</l>
+                  <l>Virgo Potens ora</l>
+                  <l>Virgo Clemens ora</l>
+                  <l>Virgo fidelis ora</l>
+                  <l>Speculum juſtitiae ora</l>
+                  <l>Sedes ſapientiae ora</l>
+                  <l>Cauſa noſtrae laetitiae ora</l>
+                  <l>Vas ſpirituale ora</l>
+                  <l>Vas honorabile ora</l>
+                  <l>Vas inſigne devotionis ora</l>
+                  <l>Roſa Myſtica ora</l>
+                  <l>Turris Davidica ora</l>
+                  <l>Turris eburnea ora</l>
+                  <l>Domus aurea ora</l>
+                  <l>Faederis area ora</l>
+                  <l>Janua Caeli ora</l>
+                  <l>Stella matutina ora</l>
+                  <pb n="34" facs="tcp:48468:29"/>
+                  <l>Salus infirmorum ora</l>
+                  <l>Refugium peccatorum ora</l>
+                  <l>Confolatrix afflictorum ora</l>
+                  <l>Auxilium Chriſtianorum ora</l>
+                  <l>Regina Angelorum, ora</l>
+                  <l>Regina Patriarcharum ora</l>
+                  <l>Regina Prophetarum ora</l>
+                  <l>Regina Apoſtolorum ora</l>
+                  <l>Regina Martyrum ora</l>
+                  <l>Regina Confeſſorum, ora</l>
+                  <l>Regina Virginum ora</l>
+                  <l>Regina Sanctorum omnium ora</l>
+                  <l>Regina Sacratiſſima Roſarii, ora</l>
+                  <l>Agnus Dei, qui tollis peccata mundi, parce nobis Domine.</l>
+                  <l>Agnus Dei, qui tollis peccata mundi, exaudi nos Domine.</l>
+                  <l>Agnus Dei, qui tollis peccata mundi, miſerere nobis.</l>
+               </lg>
+               <p>Antiphona. <hi>Sub tuum praeſidium con<g ref="char:EOLhyphen"/>fugimus, Sancta Dei genetrix, noſtras deprecationes ne deſpicias in neceſſitatibus noſtris: ſed a periculis cunctis libera nos ſemper Virgo glorioſa &amp; benedicta.</hi>
+               </p>
+               <lg>
+                  <pb n="35" facs="tcp:48468:29"/>
+                  <l>Ora pro nobis ſancta Dei genetrix.</l>
+                  <l>Ut digni efficiamur promiſſionibus Chriſti.</l>
+                  <l>Salvas fac ancillas tuas Reginas noſtras Henericam Mariam &amp; Katharinam.</l>
+                  <l>Deus meus ſperantes in te.</l>
+                  <l>Mitte eis Domine auxilium de ſancto.</l>
+                  <l>Et de Sion tuere eas.</l>
+                  <l>Domine exaudi orationem meam.</l>
+                  <l>Et clamor meus ad te veniat.</l>
+                  <l>Dominus vobiſcum.</l>
+                  <l>Et cum ſpiritu tuo.</l>
+               </lg>
+               <p>Oremus.</p>
+               <p>
+                  <hi>COncede nos famulos tuos quaeſumus Domine Deus perpetuâmentis &amp; cor<g ref="char:EOLhyphen"/>poris ſanitate gaudere, &amp; glorioſâ Beatae Mariae ſemper Virginis interceſſione, à prae<g ref="char:EOLhyphen"/>ſenti liberari tiſtitiâ, &amp; aeterna perfrui laetitiâ.</hi>
+               </p>
+               <p>
+                  <hi>Eccleſiae tuae, quaeſumus Domine, preces placatus admitte; ut deſtructis adverſita<g ref="char:EOLhyphen"/>tibus &amp; erroribus univerſis, ſecurâ tibi ſerviat libertate.</hi>
+               </p>
+               <p>
+                  <hi>Deus ſervientium tibi fortitudo Regno<g ref="char:EOLhyphen"/>rum, propitiare precibus noſtris, &amp; Sere<g ref="char:EOLhyphen"/>niſſimas
+<pb n="36" facs="tcp:48468:30"/>Reginas nostras</hi> Henricam Ma<g ref="char:EOLhyphen"/>riam, <hi>&amp;</hi> Catharinam <hi>ab omni adverſitate deffende, ut ſalus ſervientium tibi famu<g ref="char:EOLhyphen"/>larum, pax tuorum poſſit eſſe populorum. Per Chriſtum Dominum noſtrium.</hi> Amen.</p>
+               <p>Divinum auxilium maneat ſemper nobiſcum. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>The form of offering ones ſelf to the Bleſſed <hi>Virgin Mary,</hi> to be admitted into her Con<g ref="char:EOLhyphen"/>fraternity.</head>
+               <p>THrice ſacred Virgin <hi>Mary,</hi> Mother of God! IN. N. though moſt unworthy to be regiſtred amongſt your ſervants, yet mov'd (by that Good<g ref="char:EOLhyphen"/>neſs which the Angels admire in you) to an ardent deſire of honouring, lo<g ref="char:EOLhyphen"/>ving, and ſerving you; do here this day with all poſſible humility, ſinceri<g ref="char:EOLhyphen"/>ty, and devotion, (in the preſence of my Angel Guardian, and the whole Court of Heaven) make a choice of you for my ſingular Lady, Advocate,
+<pb n="37" facs="tcp:48468:30"/>and Mother; firmly purpoſing to ho<g ref="char:EOLhyphen"/>nour, love, and ſerve you, with all filial duty, diligence, and fidelity; and to procure (as much as it ſhall lye in my power) that all others may do the ſame.</p>
+               <p>I therefore moſt heartily beſeech you, (O merciful and compaſſionate Mo<g ref="char:EOLhyphen"/>ther!) by the pretious Blood which your dearly beloved ſon, my Bleſſed Saviour, ſhed for me in his bitter paſ<g ref="char:EOLhyphen"/>ſion; That you will be graciouſly plea<g ref="char:EOLhyphen"/>ſed to receive and admit me into the number of your devout Clients, as one dedicated to your perpetual ſervice.</p>
+               <p>Be you favourable to me (O Bleſſed Lady!) and obtain for me of your All-powerful Son, that I may ſo be<g ref="char:EOLhyphen"/>have my ſelf in all my Thoughts, Words, and Actions, as never more to think, ſpeak, or act any thing diſ<g ref="char:EOLhyphen"/>pleaſing to his ſacred Majeſty.)</p>
+               <p>Grant furthermore (O my good and gracious Mother!) that I may never forget you, nor forfeit this my now made promiſe of honouring, loving, and ſerving you all the days of my life; that ſo I may never be forgotten, for<g ref="char:EOLhyphen"/>ſaken, nor abandoned by you; but be al<g ref="char:EOLhyphen"/>ways
+<pb n="38" facs="tcp:48468:31"/>ways protected, aided, and aſſiſted by you, eſpecially in the hour of my Death. Amen.</p>
+            </div>
+            <div type="section">
+               <head>Then the Superior receives him or her into the Confraternity, by ſpeaking theſe words, and given them his Benediction, as follows.</head>
+               <p>BY the Authority, which is com<g ref="char:EOLhyphen"/>mitted to me for this end, by the Superiours of the holy Order of St. <hi>Do<g ref="char:EOLhyphen"/>minick:</hi> I receive you into the Con<g ref="char:EOLhyphen"/>fraternity of the <hi>Roſary</hi> of the moſt Bleſſed Virgin <hi>Mary:</hi> And do admit you to a participation of all the ſpiri<g ref="char:EOLhyphen"/>tual Benefits, which (by the merits of Jeſus Chriſt) the Brothers and Siſters of the ſacred <hi>Roſary</hi> do commonly enjoy.</p>
+               <p>
+                  <g ref="char:cross">✚</g> 
+                  <hi>In the Name of the Father, and of the Son, <g ref="char:cross">✚</g> and of the holy Ghoſt,</hi> Amen.</p>
+               <p>Then laying the Bedes upon the Altar, he puts a ſtole about his neck, and bleſſeth them for the uſe of the newly received Brother or Siſter: ſay<g ref="char:EOLhyphen"/>ing as followeth.</p>
+               <div type="blessing">
+                  <pb n="39" facs="tcp:48468:31"/>
+                  <head>The Bleſſing of the Bedes of the Roſary.</head>
+                  <p>Verſ. <hi>Adjutorium noſtrum in nomine Domini.</hi>
+                  </p>
+                  <p>Reſp. <hi>Qui fecit caelum &amp; terram.</hi>
+                  </p>
+                  <p>Pſal. <hi>Laudate Dominum in Sanctis e<g ref="char:EOLhyphen"/>jus, laudate eum in firmamento virtutis ejus.</hi>
+                  </p>
+                  <p>
+                     <hi>Laudate eum in virtutibus ejus: lau<g ref="char:EOLhyphen"/>date eum ſecundum multitudinem magni<g ref="char:EOLhyphen"/>tudinis ejus.</hi>
+                  </p>
+                  <p>
+                     <hi>Laudate eum in ſono tubae; laudate eum in pſalterio &amp; cithara.</hi>
+                  </p>
+                  <p>
+                     <hi>Laudate eum in tympano, &amp; choro: laudate eum in chordis &amp; organo.</hi>
+                  </p>
+                  <p>
+                     <hi>Laudate eum in cymbalis bene ſonanti<g ref="char:EOLhyphen"/>bus; laudate eum in cymbalis jubilationis: omnis ſpiritus laudet Dominum.</hi>
+                  </p>
+                  <p>
+                     <hi>Gloria Patri &amp; Filio, &amp;c.</hi>
+                  </p>
+                  <p>Verſ. <hi>Dignare me laudare te virgo ſa<g ref="char:EOLhyphen"/>crata.</hi>
+                  </p>
+                  <p>Reſp. <hi>Da mihi virtutem contra hoſtes tuos.</hi>
+                  </p>
+                  <p>Verſ. <hi>Cum dederit dilectis ſuis ſom<g ref="char:EOLhyphen"/>num.</hi>
+                  </p>
+                  <p>Reſp. <hi>Ecce haereditas Domini filii mer<g ref="char:EOLhyphen"/>ces fructus ventris.</hi>
+                  </p>
+                  <pb n="40" facs="tcp:48468:32"/>
+                  <p>Verſ. <hi>Domine exaudi orationem meam</hi>
+                  </p>
+                  <p>Reſp. <hi>Et clamor meus ad te veniat.</hi>
+                  </p>
+                  <p>Verſ. <hi>Dominus vobiſcum.</hi>
+                  </p>
+                  <p>Reſp. <hi>Et cum ſpiritu tuo.</hi>
+                  </p>
+                  <p>Oremus.</p>
+                  <p>
+                     <hi>OMmpotens &amp; miſericors Deus, qui propter eximiam Charitatem tuam qua dilexiſti nos, Filium tuum unigenitum Dominum noſtrum Jeſum Christum, pro Redemptione noſtra, de coelis in Terram deſcendere, &amp; de Beatiſſimae Virginis Ma<g ref="char:EOLhyphen"/>riae Dominae nostrae utero, Angelo nuncian<g ref="char:EOLhyphen"/>te, carnem ſuſcipere, crucemque ac mor<g ref="char:EOLhyphen"/>tem ſubire, &amp; tertia die glorioſum à mortuis reſurgere voluſti, ut nos eriperes de poteſtate Diaboli: Obſecramus immenſam clemen<g ref="char:EOLhyphen"/>tiam tuam, ut haec ſigna Roſarii, in hono<g ref="char:EOLhyphen"/>rem &amp; laudem ejuſdem Genitricis Filii tui, ab Eccleſia tua fideli dicata, Bene <g ref="char:cross">✚</g> di<g ref="char:EOLhyphen"/>cas, &amp; ſancti<g ref="char:cross">✚</g>fices, eiſque tantam San<g ref="char:EOLhyphen"/>cti Spiritus infundas virtutem; ut quicun<g ref="char:EOLhyphen"/>que horum quodlibet ſecum portaverit, at<g ref="char:EOLhyphen"/>que in domo ſuo reverenter tenuerit, &amp; in eis ad te ſecundum ejuſdem ſanctae Confra<g ref="char:EOLhyphen"/>ternitatis Instituta, divina contemplanda mysteria devote oraverit; ſalubri &amp; per<g ref="char:EOLhyphen"/>ſeveranti
+<pb n="41" facs="tcp:48468:32"/>devotione abundet; ſitque con<g ref="char:EOLhyphen"/>ſors &amp; particeps omnium gratiarum, pri<g ref="char:EOLhyphen"/>vilegiorum, &amp; Indulgentiarum, quae eident Confraternitati per ſacram Sedem Apoſto<g ref="char:EOLhyphen"/>licam conceſſa ſunt; &amp; ab omni hoste viſi<g ref="char:EOLhyphen"/>bili &amp; inviſibili ſemper &amp; ubique in hoc &amp; in futuro ſaeculo liberetur; &amp; in exitu ſuo, ab ipſa Beatiſſima Virgine Maria Dei gene<g ref="char:EOLhyphen"/>trice, tibi plenus bonis operibus praeſentari mereatur.</hi>
+                  </p>
+                  <p>
+                     <hi>Per eundem Dominum nostrum Jeſum Chriſtum Filium tuum, qui tecum vivit &amp; regnat, in unitate Spiritus Sancti Deus. Per omnia ſaecula ſaeculorum, Amen.</hi>
+                  </p>
+                  <p>Then he ſprinkles the Bedes with ho<g ref="char:EOLhyphen"/>ly water, ſaying:</p>
+                  <p>
+                     <hi>In nomine Patris, &amp; Filii, &amp; Spiritus Sancti. Amen,</hi> and gives them to the partie.</p>
+                  <p>The Bleſſing of the Wax Candles, for the Brothers and Siſters of the holy Raſery, to hold in their hands, at the hour of Death.</p>
+                  <p>Verſ. <hi>Adjutorium noſtrum in nomine Domini.</hi>
+                  </p>
+                  <p>Reſp. <hi>Qui fecit coelum &amp; terram.</hi>
+                  </p>
+                  <pb n="42" facs="tcp:48468:33"/>
+                  <p>CANTICUM.</p>
+                  <p>
+                     <hi>N<g ref="char:V">Ʋ</g>nc dimittis ſervum tuum Domine: ſecundum verbum tuum in pace.</hi>
+                  </p>
+                  <p>
+                     <hi>Quia viderunt oculi mei: ſalutare tuum.</hi>
+                  </p>
+                  <p>
+                     <hi>Quod paraſti: ante faciem omnium po<g ref="char:EOLhyphen"/>pulorum:</hi>
+                  </p>
+                  <p>
+                     <hi>Lumen ad revelationem gentium; &amp; gloriam plebis tuae Iſrael.</hi>
+                  </p>
+                  <p>
+                     <hi>Gloria Patri &amp; Filio, &amp;c.</hi>
+                  </p>
+                  <p>ANTIPHONA.</p>
+                  <lg>
+                     <l>
+                        <hi>AVE Regina Coelorum,</hi>
+                     </l>
+                     <l>
+                        <hi>Ave Domina Angelorum,</hi>
+                     </l>
+                     <l>
+                        <hi>Salve Radix, Salve Porta,</hi>
+                     </l>
+                     <l>
+                        <hi>Ex qua mundo lux eſt orta,</hi>
+                     </l>
+                     <l>
+                        <hi>Gaude virgo glorioſa,</hi>
+                     </l>
+                     <l>
+                        <hi>Super omnes ſpecioſa,</hi>
+                     </l>
+                     <l>
+                        <hi>Vale O valde decora,</hi>
+                     </l>
+                     <l>
+                        <hi>Et pro nobis Chriſium exora.</hi>
+                     </l>
+                  </lg>
+                  <p>Verſ. <hi>Poſt partum virgo inviolata per<g ref="char:EOLhyphen"/>manſiſti.</hi>
+                  </p>
+                  <p>Reſp. <hi>Dei Genitrix intercede pro no<g ref="char:EOLhyphen"/>bis.</hi>
+                  </p>
+                  <pb n="43" facs="tcp:48468:33"/>
+                  <p>Verſ. <hi>Domine exandi orationem meam.</hi>
+                  </p>
+                  <p>Reſp. <hi>Et clamer mens ad te veniat.</hi>
+                  </p>
+                  <p>Verſ. <hi>Dominus vebiſcum.</hi>
+                  </p>
+                  <p>Reſp. <hi>Et cum ſpiritu tuo.</hi>
+                  </p>
+                  <p>OREMUS.</p>
+                  <p>
+                     <hi>DOmine Jeſu Christe, lux vera, qui illuminas omnem hominem veni<g ref="char:EOLhyphen"/>entem in hunc mundum! Effunde per in<g ref="char:EOLhyphen"/>terceſſionem Virginis Mariae matris tuae, &amp; per quindecim eius Roſarii myſteria, Benedictionem tuam ſuper hos caereos &amp; candelas, &amp; ſanctifica eas lumine tuae gra<g ref="char:EOLhyphen"/>tiae, &amp; concede propitius ut ſicut haec lumi<g ref="char:EOLhyphen"/>naria igne viſibili accenſa, nocturnas de<g ref="char:EOLhyphen"/>pellunt tenebras; Ita corda noſtra inviſi<g ref="char:EOLhyphen"/>bili igne, id est, Spiritus Sancti Splendore illuſirata, omnium vitiorum coecitate care<g ref="char:EOLhyphen"/>ant, ut puro mentis oculo cernere ſemper poſſimus, quae tibi ſunt placita, &amp; noſtrae ſaluti utilia: quatenus poſt hujus ſaeculi caliginoſa diſcrimina, ad lucem indeficien<g ref="char:EOLhyphen"/>tem pervenire mereamur. Qui vivis &amp; regnas Deus, in ſaecula ſaeculorum. Amen.</hi>
+                  </p>
+                  <pb n="44" facs="tcp:48468:34"/>
+                  <p>OREMUS.</p>
+                  <p>
+                     <hi>DOmine Jeſu Chriſte, ſplendor gloriae, &amp; figura ſubſtantiae Patris, &amp; vir<g ref="char:EOLhyphen"/>ginalis uteri frucius! Qui per tempora<g ref="char:EOLhyphen"/>lem Nativitatem tuam divinae Filiationis imaginem per gratiam hominibus contuliſti, illoſque fratres vecare dignatus es: Auge in nobis famulis tuis, (in Confraternitate virginis Matris tuae gloriantibus) Spiritum gratiae quem dediſti, &amp; has candelas quas in honorem Nominis ejus ſuſcipimus, ita Bene<g ref="char:cross">✚</g>dicere &amp; ſancti<g ref="char:cross">✚</g>ficare digneris, ut quicunque eas in manibus accenſas te<g ref="char:EOLhyphen"/>nuerit, ab omnibus liberetur tentationibus, &amp; in hora mortis ſuae, remiſſionem omnium peceatorum percipiat; &amp; demum ad Te, qui verum lumen es, ipſa dirigente perve<g ref="char:EOLhyphen"/>niat. Qui vivis &amp; regnas in ſaeculo ſaecu<g ref="char:EOLhyphen"/>lorum. Amen.</hi>
+                  </p>
+                  <p>Then he ſprinkles the Candles with holy Water, ſaying:</p>
+                  <p>
+                     <g ref="char:cross">✚</g> 
+                     <hi>In nomine Patris, &amp; Filii &amp; Spiritus Sancii. Amen.</hi>
+                  </p>
+                  <pb n="45" facs="tcp:48468:34"/>
+                  <p>We have here added all that is lately publiſhed, concerning the recital of the Roſary, in the Chappel Royal of St. <hi>James,</hi> that the devout <hi>Roſariſts</hi> may find in this Book all that is elſewhere.</p>
+               </div>
+            </div>
+            <div type="section">
+               <head>The Method of ſaying the Ro<g ref="char:EOLhyphen"/>ſary of our Bleſſed Lady, as it was ordered by Pope <hi>Pius</hi> the V. of the ho<g ref="char:EOLhyphen"/>ly Order of Preachers.</head>
+               <div type="subsection">
+                  <head>The Joyful Myſteries aſſigned for Mundays and Thurſdays through the Year, and Saturdayes in Advent, and after Epi<g ref="char:EOLhyphen"/>phany till Lent.</head>
+                  <p>The firſt Myſtery.</p>
+                  <p>The Meditation.</p>
+                  <p>LEt us contemplate in this Myſtery, how the Angel <hi>Gabriel</hi> ſaluted our Bleſſed Lady with the title of <hi>Full of
+<pb n="46" facs="tcp:48468:35"/>Grace,</hi> and declared unto her the In<g ref="char:EOLhyphen"/>carnation of our Lord and Saviour Je<g ref="char:EOLhyphen"/>ſus Chriſt.</p>
+                  <p>Then ſay, Our Father, once.</p>
+                  <p>Hail <hi>Mary,</hi> ten times.</p>
+                  <p>
+                     <hi>O<g ref="char:V">Ʋ</g>r Father, which art in Heaven. Hallowed be thy Name. Thy King<g ref="char:EOLhyphen"/>dome come; thy will be done in earth, as it is in Heaven. Give us this day our dai<g ref="char:EOLhyphen"/>ly bread: And forgive us our treſpaſſes, as we forgive them that treſpaſs againſt us. lead us not into temptation: But deliver us from evil.</hi> Amen.</p>
+                  <p>Hail <hi>Mary,</hi> full of Grace, our Lord is with thee. Bleſſed art thou among women; and bleſſed is the fruit of thy womb Jeſus. Holy <hi>Mary,</hi> Mother of God, pray for us ſinners, now and in the hour of our death. Amen.</p>
+                  <p>The Prayer.</p>
+                  <p>O <hi>Holy</hi> Mary, <hi>Queen of Virgins, by the moſt high Myſtery of the Incar<g ref="char:EOLhyphen"/>nation of thy beloved Son, our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, by which our ſalvation was ſo happily begun, obtain for us by thy Inter<g ref="char:EOLhyphen"/>ceſſion,
+<pb n="47" facs="tcp:48468:35"/>light to know this ſo great benefit, which he hath bestowed upon us, vouchſa<g ref="char:EOLhyphen"/>fing in it, to make him our Brother, and thee his own moſt beloved Mother, our Mo<g ref="char:EOLhyphen"/>ther alſo.</hi> Amen.</p>
+                  <p>The ſecond Myſtery.</p>
+                  <p>The Meditation.</p>
+                  <p>LEt us contemplate in this myſtery, how the bleſſed Virgin <hi>Mary,</hi> un<g ref="char:EOLhyphen"/>derſtanding from the Angel, that her Couſin St. <hi>Elizabeth</hi> had conceived, went with haſt into the Mountains of <hi>Judaea</hi> to viſit her, and remained with her three moneths.</p>
+                  <p>The Prayer.</p>
+                  <p>O <hi>Holy Virgin, moſt ſpotleſs mirror of Humility; by that exceeding Chari<g ref="char:EOLhyphen"/>ty which moved thee to viſit thy holy Cou<g ref="char:EOLhyphen"/>ſin St.</hi> Elizabeth; <hi>obtain for us by thy Interceſſion, that our hearts may be ſo vi<g ref="char:EOLhyphen"/>ſited by thy moſt Holy Son, that free from all ſin, we may praiſe him, and give him thanks for ever,</hi> Amen.</p>
+                  <pb n="48" facs="tcp:48468:36"/>
+                  <p>The third Myſtery.</p>
+                  <p>The Meditation.</p>
+                  <p>LEt us contemplate in this Myſtery, how the B. Virgin <hi>Mary,</hi> when the time of her delivery was come, brought forth our Redeemer Chriſt Je<g ref="char:EOLhyphen"/>ſus at midnight, and laid him in a manger, becauſe there was no room for him in the Inns of <hi>Bethlem.</hi>
+                  </p>
+                  <p>The Prayer.</p>
+                  <p>
+                     <hi>O Moſt pure Mother of God, by thy Virginal and most joyful delivery, by which thou gaveſt unto the world thy only Son, our Saviour, we beſeech thee obtain for us by thy Interceſſion, grace to lead ſo pure and holy a life in this world, that we may worthily ſing without ceaſing, both day and night, the mercies of thy Son, and his benefits to us by thee.</hi> Amen.</p>
+                  <p>The fourth Mystery.</p>
+                  <p>The Meditation.</p>
+                  <p>LEt us contemplate in this Myſtery, how the moſt B. Virgin <hi>Mary,</hi> on the day of her Purification, preſented the child Jeſus in the Temple, where
+<pb n="49" facs="tcp:48468:36"/>Holy <hi>Simeon</hi> giving thanks to God with great devotion, received him into his armes.</p>
+                  <p>The Prayer.</p>
+                  <p>
+                     <hi>O Holy Virgin, moſt admirable Mistris and pattern of obedience; who didſt preſent in the Temple the Lord of the Temple, obtain for us by thy Interceſſion, Grace of thy beloved Son, that with Holy</hi> Simeon <hi>and devout</hi> Anna, <hi>we may praiſe and glorifie him for ever.</hi> Amen.</p>
+                  <p>The fifth Mystery.</p>
+                  <p>The Meditation.</p>
+                  <p>LEt us contemplate in this Myſtery, how the bleſſed Virgin <hi>Mary</hi> ha<g ref="char:EOLhyphen"/>ving loſt without any fault of hers, her Beloved Son in <hi>Jeruſalem,</hi> ſhe ſought him for the ſpace of three dayes, and at length found him the third day in the Temple, in the midſt of the Do<g ref="char:EOLhyphen"/>ctors diſputing with them, being of the age of twelve years.</p>
+                  <p>The Prayer.</p>
+                  <p>
+                     <hi>MOſt bleſſed Virgin, more then Mar<g ref="char:EOLhyphen"/>tyr in thy ſuffering, and yet the
+<pb n="50" facs="tcp:48468:37"/>comfort of ſuch as are afflicted; by that un<g ref="char:EOLhyphen"/>ſpeakable joy wherewith thy ſoul was ra<g ref="char:EOLhyphen"/>viſhed in finding thy beloved Son in the Temple, in the midſt of the Doctors diſpu<g ref="char:EOLhyphen"/>ting with them, obtain him for us, ſo to ſeek him, and ſo to find him in the Holy Catholick Church, that we may never be ſeparated from him.</hi> Amen.</p>
+                  <p>Salve Regina.</p>
+                  <p>HAil Holy Queen, Mother of Mer<g ref="char:EOLhyphen"/>cy, our life, our ſweetneſs, and our hope, To thee do we cry, poor baniſhed ſons of <hi>Eve.</hi> To thee do we ſend our ſighs, mourning and weeping in this valley of tears; turn then Moſt gracious Advocate, thy eyes of mercy toward us, and after this our exile en<g ref="char:EOLhyphen"/>ded, ſhew unto us the bleſſed fruit of thy womb Jeſus. O moſt Clement, moſt Pious, and moſt ſweet Virgin <hi>Mary.</hi>
+                  </p>
+                  <pb n="51" facs="tcp:48468:37"/>
+                  <p>Vers. <hi>Pray for us holy Mother of God.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſp.</hi> That we may be made worthy of the promiſes of Chriſt.</p>
+                  <p>Let us pray.</p>
+                  <p>
+                     <hi>HEar, O merciful God, the Prayer of thy ſervants, that we who are met together in the ſociety of the B. Virgin, Mother of God, by her interceſſion may by thee be delivered from the dangers that continually hang over us.</hi> Amen.</p>
+               </div>
+               <div type="subsection">
+                  <head>The dolorous or ſorrowful Myſte<g ref="char:EOLhyphen"/>ries for Tueſdayes and Fry<g ref="char:EOLhyphen"/>dayes through the year, and Sundayes in <hi>Lent.</hi>
+                  </head>
+                  <p>The firſt Myſtery.</p>
+                  <p>The Meditation.</p>
+                  <p>LEt us contemplate in this Myſtery, how our Lord Jeſus was ſo afflicted
+<pb facs="tcp:48468:38"/>for us in the Garden of <hi>Gethſemany,</hi> that his Body was bathed in a bloody ſweat, which ran trickling down in great drops unto the ground.</p>
+                  <p>Our Father Hail <hi>Mary as before.</hi>
+                  </p>
+                  <p>The Prayer.</p>
+                  <p>
+                     <hi>MOſt holy Virgin, more then Martyr, by that ardent Prayer which thy beloved Son poured forth unto his Father in the Garden, vouchſafe ſo to intercede for us, that our paſſions reduced to the obe<g ref="char:EOLhyphen"/>dience of Reaſon, we may alwayes, and in all things, conform and ſubject our ſelves to the Will of God.</hi> Amen.</p>
+                  <p>The ſecond Myſtery.</p>
+                  <p>The Meditation.</p>
+                  <p>LEt us contemplate in this Myſtery, how our Lord Jeſus Chriſt, was moſt cruelly ſcourged in <hi>Pilate</hi>'s houſe, the number of the ſtripes they gave him, being above five thouſand.</p>
+                  <p>(<hi>As was revealed to St.</hi> Brigit.)</p>
+                  <pb facs="tcp:48468:38"/>
+                  <p>The Prayer.</p>
+                  <p>
+                     <hi>O Mother of God, ever flowing fountain of patience, by thoſe ſtripes thy only and moſt Beloved Son vouchſafed to ſuffer for us, obtain of him for us grace that we may know how to mortifie our rebellious ſences, and cut off all occaſions of ſinning with that ſword of grief and compaſſion, which pierced thy moſt tender ſoul.</hi> Amen.</p>
+                  <p>The third Myſtery.</p>
+                  <p>The Meditation.</p>
+                  <p>LEt us contemplate in this Myſterie, how thoſe cruel Miniſters of Satan platted a Crown of ſharp thorns, and moſt cruelly planted it on the moſt Sa<g ref="char:EOLhyphen"/>cred Head of our Lord Jeſus Chriſt.</p>
+                  <p>The Prayer.</p>
+                  <p>
+                     <hi>O Mother of our Eternal Prince and King of Glory, by thoſe ſharp thorns, wherewith his moſt holy head was pierced, we beſeech thee, that by thy Interceſſion, we may be delivered here from all motions of Pride, and in the day of Judgement
+<pb n="54" facs="tcp:48468:39"/>from that confuſion, which our ſins de<g ref="char:EOLhyphen"/>ſerve.</hi> Amen.</p>
+                  <p>The fourth Myſtery.</p>
+                  <p>The Meditation.</p>
+                  <p>LEt us contemplate in this Myſtery, how our Lord Jeſus Chriſt being ſentenced to die, bore with great pati<g ref="char:EOLhyphen"/>ence the Croſs, which was laid upon upon him for his greater torment and ignominy.</p>
+                  <p>The Prayer.</p>
+                  <p>
+                     <hi>O Holy Virgin, Example of patience, by the moſt painful carrying of the Croſs, in which thy Son our Lord Jeſus Chriſt bore the heavy weight of our ſins, obtain for us of him by thy interceſſion, cou<g ref="char:EOLhyphen"/>rage and ſtrength to follow his ſteps, and bear our Croſs after him unto the end of our life.</hi> Amen.</p>
+                  <p>The fifth Myſtery.</p>
+                  <p>The Meditation.</p>
+                  <p>LEt us contemplate in this Myſtery, how our Lord Jeſus Chriſt being
+<pb n="55" facs="tcp:48468:39"/>come to Mount <hi>Calvary,</hi> was ſtripped off his Cloths, and his hands and feet moſt cruelly nailed to the Croſs, in the preſence of his moſt afflicted Mother.</p>
+                  <p>The Prayer.</p>
+                  <p>
+                     <hi>O Holy</hi> Mary, <hi>Mother of God, as the body of thy beloved Son was for us extended on the Croſs, ſo may our deſires be daily more and more ſtretched out in his Service, and our hearts wounded with com<g ref="char:EOLhyphen"/>paſſion of his moſt bitter paſſion. And thou O moſt B. Virgin, vouchſafe to negotiate for and with us, the work of our ſalvation by thy powerful Interceſsion.</hi> Amen.</p>
+                  <p>Hail holy <hi>Queen,</hi> &amp;c. with the verſ. and prayer as above.</p>
+               </div>
+               <div type="subsection">
+                  <pb n="56" facs="tcp:48468:40"/>
+                  <head>The Glorious Myſteries, for Wed<g ref="char:EOLhyphen"/>neſdays and Saturdays through the year, and Sundays after Faſter until Advent.</head>
+                  <p>LEt us contemplate in this Myſtery, how our Lord Jeſus Chriſt trium<g ref="char:EOLhyphen"/>phing gloriouſly over death, roſe again the third day Immortal and Impaſ<g ref="char:EOLhyphen"/>ſible.</p>
+                  <p>Our Father, Hail <hi>Mary,</hi> as before.</p>
+                  <p>The Prayer.</p>
+                  <p>
+                     <hi>O Glorious Virgin</hi> Mary, <hi>by that un<g ref="char:EOLhyphen"/>ſpeakable joy thou receivedſt in the Reſurrection of thy only Son, we beſeech thee obtain of him for us, that our hearts may never go away after the falſe joyes of this world but may be ever and wholly em<g ref="char:EOLhyphen"/>ployed in the purſuit of the only true and ſolid joyes of heaven.</hi> Amen.</p>
+                  <pb n="57" facs="tcp:48468:40"/>
+                  <p>The ſecond Myſtery.</p>
+                  <p>The Meditation.</p>
+                  <p>LEt us contemplate in this Myſterie, how our Lord Jeſus Chriſt, forty dayes after his Reſurrection, aſcended into heaven, attended by Angels, in the ſight of his moſt Holy Mother, his Holy Apoſtles and Diſciples, to the great admiration of them all.</p>
+                  <p>The Prayer.</p>
+                  <p>
+                     <hi>O Mother of God, comfort the afflicted; as thy beloved Son, when he aſcen<g ref="char:EOLhyphen"/>ded into heaven, lifted up his hands and bleſſed his Apoſtles; ſo vouchſafe, moſt holy Mother, to lift up thy pure hands to him for us, that we may enjoy the benefit of his Bleſſing and thine here on earth, and hereafter in heaven.</hi> Amen.</p>
+                  <p>The third Myſtery.</p>
+                  <p>The Meditation.</p>
+                  <p>LEt us contemplate in this Myſtery, how our Lord Jeſus Chriſt being ſeated on the right hand of God, ſent
+<pb n="58" facs="tcp:48468:41"/>as he had promiſed, the Holy Ghoſt upon his Apoſtles, who after he was aſcended, returning to <hi>Jeruſalem,</hi> con<g ref="char:EOLhyphen"/>tinued in prayer and ſupplication with the B. Virgin <hi>Mary,</hi> expecting the per<g ref="char:EOLhyphen"/>formance of his promiſe.</p>
+                  <p>The Prayer.</p>
+                  <p>
+                     <hi>O Sacred Virgin, Tabernacle of the Holy Ghoſt, we beſeech thee, obtain by thy interceſſion, that this moſt ſweet Comforter, whom thy beloved Son ſent down upon his Apostles, filling them there<g ref="char:EOLhyphen"/>by with ſpiritual joy, may teach us in this world the true way of Salvation, and make us walk in the pathes of vertue and good works.</hi> Amen.</p>
+                  <p>The fourth Myſtery.</p>
+                  <p>
+                     <hi>The Meditation.</hi>
+                  </p>
+                  <p>LEt us contemplate in this Myſterie, how the glorious Virgin twelve years after the reſurrection of her Son, paſſed out of this world unto him, and was by him aſſumed into Heaven, ac<g ref="char:EOLhyphen"/>companied by the Holy Angels.</p>
+                  <pb n="59" facs="tcp:48468:41"/>
+                  <p>The Prayer.</p>
+                  <p>
+                     <hi>O Moſt Prudent Virgin, who entring the Heavenly Palace, didſt fill the Holy Angels with joy, and men with hope; vouchſafe to intercede for us in the hour of our death, that free from the illuſions and temptations of the devil, we may joy<g ref="char:EOLhyphen"/>fully and ſecurely paſs out of this tempo<g ref="char:EOLhyphen"/>ral ſtate to enjoy the happineſs of Eternal Life.</hi> Amen.</p>
+                  <p>The fifth Myſtery.</p>
+                  <p>The Meditation.</p>
+                  <p>LEt us contemplate in this Myſterie, how the glorious Virgin <hi>Mary,</hi> who was with great Jubilee and exul<g ref="char:EOLhyphen"/>tation of the whole Court of Heaven, and particular glory of all the Saints, crowned by her Son, with the brighteſt Diadem of Glory.</p>
+                  <pb n="60" facs="tcp:48468:42"/>
+                  <p>The Prayer.</p>
+                  <p>
+                     <hi>O Glorious Queen of all the heavenly Citizens, we beſeech thee accept this Roſary, which as a Crown of Roſes we of<g ref="char:EOLhyphen"/>fer at thy feet, and grant moſt glorious Lady, that by thy Interceſſion our ſouls may be inflamed with ſo ardent a deſire of ſee<g ref="char:EOLhyphen"/>ing Thee ſo gloriouſly crowned, that it may never dye in us, until it ſhall be changed into the happy fruition of thy bleſſed ſight.</hi> Amen.</p>
+               </div>
+            </div>
+            <div type="part">
+               <p>Advertiſement concerning the Arch-Confraternity of Saint <hi>Francis.</hi>
+               </p>
+               <p>
+                  <hi>Honour is to be given to thoſe, to whom it is due. Therefore let the Reader be pleaſed to underſtand, that this Trea<g ref="char:EOLhyphen"/>tiſe is collected out of the great Manuel of Father</hi> Angelus Francis, <hi>Profeſſor of Divinity, of the Seraphical Order of St.</hi> Francis, <hi>my dear and moſt honoured Friend.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="61" facs="tcp:48468:42"/>
+            <head>THE ARCH-CONFRATERNITY Of the Seraphical Father St. <hi>FRANCIS,</hi> Called <hi>The Cord of the Paſſion.</hi>
+            </head>
+            <div type="section">
+               <head>The Original of this Arch-Confraternity.</head>
+               <p>AS in all things our holy Father St. <hi>Francis</hi> hath born the figure and ſign of Chriſt crucified, thereby
+<pb n="62" facs="tcp:48468:43"/>to reduce unto his memory the Paſſion of our Saviour: Even ſo he hath done it in his exterior habit, as may be ſeen in the 3. Chap. of his Life, written by St. <hi>Bonavent.</hi> where it is related, that he having heard the words of our Savi<g ref="char:EOLhyphen"/>our, <hi>Mat.</hi> 10: to his Apoſtles going to preach; <hi>Do not poſſeſs gold, or ſilver, nor money in your purſes, nor a ſcrip for the way, neither two coats, neither ſhooes, &amp;c.</hi> he cryed out with great joy, <hi>This is that I deſire, this I covet earneſtly from the bowels of my heart.</hi> And thereupon preſently caſt off his ſhooes from his feet, laid away his ſtaff, caſt away his purſe, and deteſting money, was con<g ref="char:EOLhyphen"/>tent with one thin coat or tunick, made in the form of a Croſs, which he gir<g ref="char:EOLhyphen"/>ded with a Cord. Then St. <hi>Dominick</hi> Founder of the holy Order of Preach<g ref="char:EOLhyphen"/>ers, who was a great friend, and very familiar with St. <hi>Francis,</hi> one day after much ſpiritual diſcourſe concerning their holy Orders, he demanded of him the girdle which he did wear, which after many humble denial he obtained, and ever after did wear with great re<g ref="char:EOLhyphen"/>verence
+<pb n="63" facs="tcp:48468:43"/>under his habit, by whoſe ex<g ref="char:EOLhyphen"/>ample each one did proſecute it with great devotion. And truly ſuch was the Vertue and Holineſs of the Partri<g ref="char:EOLhyphen"/>ark St. <hi>Francis,</hi> that all the people did flock to him of all qualities, ſex, con<g ref="char:EOLhyphen"/>ditions, ages, men and women, Clergy and Layetie, married and ſingle, no<g ref="char:EOLhyphen"/>ble and poor, Citizens and Peſants, they did forſake the Towns, Husbands left their Wives, the Wives their Hus<g ref="char:EOLhyphen"/>bands, and houſes were depopulated through devotion they did bear to the Saint, each one ſtriving to get ſome<g ref="char:EOLhyphen"/>thing that the holy man had touched: One would ſay that theſe aſſemblies were like to that of the Chriſtians in the Acts of the Apoſtles, Ch. 19. who brought from St. <hi>Pauls</hi> body napkins or hand<g ref="char:EOLhyphen"/>kerchiefs &amp; laid upon the ſick, and the diſeaſes departed from them, and the wicked ſpirits went out. The words in the Latin Text are <hi>ſudaria &amp; ſemicinctia,</hi> which as the Reverend Father <hi>Corne<g ref="char:EOLhyphen"/>lius a lapide</hi> ſaith in his learned Com<g ref="char:EOLhyphen"/>mentaries on this place, may very well ſignifie <hi>ſmall or ſirait girdles,</hi> or <hi>half gir<g ref="char:EOLhyphen"/>dles,</hi> which he proves out of <hi>Iſidore,
+<pb n="64" facs="tcp:48468:44"/>lib.</hi> 19. whereby we may gather, that it is no new thing to take the girdles of Saints and holy men out of devotion, neither is it done without profit, both ſpiritual and temporal, as is to be ſeen in the life of our holy Father Saint <hi>Francis,</hi> where amongſt other Miracles, Saint <hi>Bonaventure</hi> recounts one of a certain man religious and ſearing God, who having a Cord wherewith the Saint was girded, when any were ſick of divers infirmities, he would go to them, and dipping the Cord into the water, gave them to drink, and by ſuch means many were cured.</p>
+            </div>
+            <div type="section">
+               <head>The Dignity of this Confrater<g ref="char:EOLhyphen"/>nity of the Cord of the Paſſion.</head>
+               <p>THe ſame Reaſons that prove the great excellency of the Roſary, prove alſo the dignity of this Arch-Confraternity, for the ſame prayers, actions, confeſſions, communions and proceſſions belong to them both; but beſides, there are many noble things
+<pb n="65" facs="tcp:48468:44"/>particular to this, as you may ſee here. The veſſel of election St. <hi>Paul,</hi> doth freely confeſſe himſelf, <hi>Eph.</hi> 3. the priſoner of Jeſus Chriſt for the <hi>Gen<g ref="char:EOLhyphen"/>tiles,</hi> and that for the hope of <hi>Iſrael</hi> he was compaſſed with a chain, wherein as he teaches, <hi>Eph.</hi> 6. he was a Legat of the Goſpel, which made him exhort the <hi>Colloſſians,</hi> Chap. 4. to be mindful of his bonds; and <hi>Tim.</hi> 1. not to be aſhamed of his chains; wherefore the Soveraign Biſhops have had great reve<g ref="char:EOLhyphen"/>rence and honour to the chains which have pinched and bruiſed the members of the Apoſtles and Martyrs. And St. <hi>Gregory,</hi> who was in the year 616. ſent for a great rarity, to the Princes and Kings of his time, part of the chains of the holy Apoſtle, St. <hi>Peter</hi> and St. <hi>Paul,</hi> for he ſent to the Empreſs <hi>Conſtantia</hi> part of the chains that were faſtned to St. <hi>Pauls</hi> neck and hands, whereby, as he ſaith, many Miracles were wrought. The like he did to <hi>Childebert</hi> King of <hi>France,</hi> and to <hi>Richaredus</hi> King of the <hi>Viſigoths.</hi> The antient Chriſtians did with great reverence go to kiſs the bonds and ſetters of the Martyrs: wit<g ref="char:EOLhyphen"/>neſs
+<pb n="66" facs="tcp:48468:45"/>
+                  <hi>Tertullian lib.</hi> 2. <hi>ad uxorem,</hi> and divers others; but St. <hi>Chryſoſtom</hi> ſhall ſerve for all, who in the 4. Chap. <hi>ad Eph. Serm.</hi> 8. ſayes, That <hi>there is no<g ref="char:EOLhyphen"/>thing ſo magnificent and excellent as to be priſoner for Jeſus Chriſt, and as the chains by the ſacred hands which they have envi<g ref="char:EOLhyphen"/>roned. It is greater renown to be bound with manicles, and to be ſhackled for Je<g ref="char:EOLhyphen"/>ſus Christ, then to be an Apoſtle or Doctor, or Evangeliſt.</hi> And further down, he ſaith, <hi>If any one ſhould give me in poſſeſſion the whole Heaven, and the choice of this chain, I had rather chuſe that chain.</hi> Moreover, <hi>If I ſhould fail to be with the Angels in Heaven, or with</hi> Paul <hi>the pri<g ref="char:EOLhyphen"/>ſoner, certainly I ſhould chuſe to be in pri<g ref="char:EOLhyphen"/>ſon. If any one ſhould ſet me in the number and rank of the celeſtial powers, who are about and near the heavenly Throne, or bind me with cords, I had rather be bound: there is nothing more happy then the chains, &amp;c. I cannot aſſure my ſelf that St.</hi> Paul <hi>was ſo happy in that, he was car<g ref="char:EOLhyphen"/>ried and rapt to the third Heaven, as that he was caſt into priſon, &amp;c.</hi> And a little after, <hi>O happy bonds! O happy hands which this chain hath adorned!
+<pb n="67" facs="tcp:48468:45"/>Babilas</hi> Patriark of <hi>Antioch,</hi> as <hi>Suidas</hi> affirmeth, deſired that the iron of his hands and feet might be buried with his body, ſaying, That <hi>one day they would ſerve him for an ornament.</hi>
+               </p>
+               <p>But the bands and cords which have touched the holy and ſacred fleſh of Je<g ref="char:EOLhyphen"/>ſus Chriſt, are much more pretious and honourable; and therefore this Evan<g ref="char:EOLhyphen"/>gelical Seraphin, this crucified Angel, Image, Imitator, and Standard-bearer of our Saviour, juſtly hath raiſed up this part of the arms of the Paſſion, girding his body with a rude and groſs cord: for as with the heart we believe unto juſtice, but with the mouth con<g ref="char:EOLhyphen"/>feſſion is made unto ſalvation, <hi>Rom.</hi> 10. ſo by this exterior ſign, he would con<g ref="char:EOLhyphen"/>feſs the affection and devotion he did bear unto him imbracing his bands, which he gave to all his children, and to all the world, to wear in memory of his Paſſion; teaching that no man ought to bluſh, or be aſhamed to wear this Cord, ſince our Saviour hath worn ſuch for our ſakes. So St. <hi>Anthony</hi> the Hermit did reverence St. <hi>Paul</hi> the Her<g ref="char:EOLhyphen"/>mits weed, made of the Palm-tree
+<pb n="68" facs="tcp:48468:46"/>leaves, and did wear it on the princi<g ref="char:EOLhyphen"/>pals and moſt ſolemn Feaſts. St. <hi>Je<g ref="char:EOLhyphen"/>rom</hi> ſaith; That he had rather chuſe it, then the Royal Purple, not for any o<g ref="char:EOLhyphen"/>ther reſpect then for that it was ſo holy a mans.</p>
+               <p>The faithful People were no leſs de<g ref="char:EOLhyphen"/>vout to our Seraphical Father; For happy were thoſe that could get any part of his Habit, or of any thing that he had, which they kept with great faith and confidence; neither did their hope fail them, as may be ſeen by ma<g ref="char:EOLhyphen"/>ny examples, eſpecially of the Cord, as St. <hi>Bonaventure</hi> affirmeth, in the miracle related above, he ſaith, be<g ref="char:EOLhyphen"/>ſides, that by putting a piece of that Cord which St. <hi>Francis</hi> did wear, a woman in child-bearing, being in emi<g ref="char:EOLhyphen"/>nent peril, was ſafely delivered. Pope <hi>Gregory</hi> the Ninth, and Pope <hi>Martin</hi> the Fourth, did not only wear the Cord privately, but alſo died in the habit of St. <hi>Francis:</hi> The like, four other Popes have done with the publick profeſſion of this rule, there<g ref="char:EOLhyphen"/>by adorning their triple Crowns with a poor Cord, chuſing to carry the hea<g ref="char:EOLhyphen"/>vie
+<pb n="69" facs="tcp:48468:46"/>burden of their worthy charge, be<g ref="char:EOLhyphen"/>ing clad in a poor &amp; contemptible man<g ref="char:EOLhyphen"/>ner. Many Catholick Kings of <hi>France,</hi> Arragon and Sicil, the late Arch-Duke and Arch-Dutcheſs, and not long ſince Cardinal Infanta have choſe to take this poor habit in their laſt paſſage and to be buried therein. <hi>Cardinal de Treio</hi> in his Epiſtle before the work of Saint <hi>Francis,</hi> ſaith, That it doth not unbe<g ref="char:EOLhyphen"/>ſeem the Royal Purple to wear the Cord of St. <hi>Francis.</hi> St. <hi>Lewis,</hi> King of <hi>France,</hi> the Queen <hi>Blaunch</hi> his Mother, St. <hi>Elizabeth</hi> Queen of <hi>Hungaria,</hi> both Queens of <hi>England,</hi> both Queens of <hi>France</hi> now living; the Queen of <hi>Por<g ref="char:EOLhyphen"/>tugal:</hi> Many other Kings and Queens, Princes, Dukes and Dutcheſſes, and other of Inferiour degree have girded themſelves with it; inſomuch, that <hi>Cornelius Mutius</hi> ſaith, That there is no Nation that doth not receive, and honour this Cord, glorying with Saint <hi>Paul</hi> in the Bands of our Saviour.</p>
+               <p>And truly, We have nothing ſo pre<g ref="char:EOLhyphen"/>tious in our Chriſtian Religion, as the holy Paſſion of our Redeemer, whereof the wearing of the Cord is a continual
+<pb n="70" facs="tcp:48468:47"/>repreſentation. The Pope <hi>Sixtus</hi> the 5th. ſaith, That the Cord repreſenteth divers Myſteries, as Charity, which doth, as it were, ties God to us, and draws us to Him by Grace and Glory. Moreover, it putteth us in mind of our Sins, wherewith, as with Ropes, we are bound, and conſequently ſtand in need of Gods Mercy: But principally it re<g ref="char:EOLhyphen"/>preſents the Paſſion of our Saviour, whoſe Memory ought alwayes to re<g ref="char:EOLhyphen"/>main in our hearts: But ſuch is our frailty and tepidity, that we quickly forget ſo great a benefit. And God hath raiſed his ſervant St. <hi>Francis,</hi> im<g ref="char:EOLhyphen"/>printing his ſacred Stigmates on his Body, to renovate, by all means poſſible, the aforeſaid Paſſion in our minds. And to this end he hath cal<g ref="char:EOLhyphen"/>led Fryers-Minors, that by Words and Deeds they might preach, teach, and repreſent his Paſſion and Poverty. From whence we may gather the dig<g ref="char:EOLhyphen"/>nity of this Confraternity. Other Confraternities are founded on the Interceſſions and Merits of Saints, in whoſe Honour they are erected; but this is erected and Ordained in the
+<pb n="71" facs="tcp:48468:47"/>memory and honour of the Paſſion of Jeſus Chriſt, who is the Holy of Holies, and whoſe Merits are Infinite: Where<g ref="char:EOLhyphen"/>by the Propheſie of King <hi>David</hi> is veri<g ref="char:EOLhyphen"/>fied for ſpeaking in the perſon of Chriſt, he ſaith, That the Cords and Bands of his Death and Paſſion are finally to be<g ref="char:EOLhyphen"/>come glorious, <hi>Pſal.</hi> 15. Cords are fal<g ref="char:EOLhyphen"/>len to me in godly places. Sith ſo ma<g ref="char:EOLhyphen"/>ny Kings and Queens, Princes and Princeſſes, Lords and Ladies do wear theſe little Cords in memory of the Band wherewith Chriſt was bound in the time his Paſſion: So then the Cord being worn in remembrance of the Paſſion, which is the cauſe of our Re<g ref="char:EOLhyphen"/>demption, Graces, Merits, and Spi<g ref="char:EOLhyphen"/>ritual Good, let us ſee here</p>
+            </div>
+            <div type="section">
+               <head>How we ought to have the Paſſion of our Saviour alwayes in our memory.</head>
+               <p>THE Seraphical Father St. <hi>Francis,</hi> a little after his converſion, weeping and lamenting very bitterly, ſaid to a Gentleman that deſired to
+<pb n="72" facs="tcp:48468:48"/>know the reaſon thereof: <hi>Jeſus Chriſt is crucified for us, and no man thinketh of it, no man is mindful of it.</hi> Non propoſuerunt Deum ante conſpectum ſuum; <hi>No man ſetteth Chriſt Jeſus in his Paſſion, before their eyes. Dion. Carth.</hi> maketh the like complaint, ſay<g ref="char:EOLhyphen"/>ing, <hi>Our Lord hath miniſtred unto us copious matter of conſideration of his love, yet (alas) it doth not touch our hearts, ſo that it ſeemes that we are more ſenſeleſs than inſenſible creatures, and more obdu<g ref="char:EOLhyphen"/>rate than hard ſtones: For when he ſuffer<g ref="char:EOLhyphen"/>ed death on the Croſs, the Earth did quake, Darkneſs aſcended, Rocks were rent, Monuments opened, and the Dead aroſe, as it were ſuffering with him, and deteſting the cruel injuries done unto him; But we, (alas!) do little compaſſionate him. O great perverſity? He hath ſuffer<g ref="char:EOLhyphen"/>ed grievous things for us, and ſcarce any affection of compaſſion toucheth our hearts: If we were his members, and he our head, we could not but grieve at his paines: If there were any bowels of pitty in us, and we ſhould ſee a brute beaſt to ſuffer ſuch things, we ſhould naturally be moved to condole him; And it doth not move us when
+<pb n="73" facs="tcp:48468:48"/>we ſee our Lord and Maſter of his exceed<g ref="char:EOLhyphen"/>ing charity to ſuffer ſo grievous paines for us.</hi> Quid commiſiſti <hi>ſaith St. Augustine,</hi> ut ſie judicareris? <hi>O bleſſed Saviour! what crime hast thou committed, to be thus judged? What ſin haſt thou perpetrated? What offence haſt thou given? What is the cauſe of thy death? What is the occaſion of thy ſlaughter?</hi> O! ſaith he, <hi>the wic<g ref="char:EOLhyphen"/>ked ſinneth, and the juſt is puniſhed: the guilty offendeth, and the innocent is cha<g ref="char:EOLhyphen"/>ſtiſed: the impious committeth the offence, and the godly is condemned: what the wicked deſerveth, the good ſuffereth: what the ſervant oweth, the maſter payeth: what man meriteth, God endureth. O amiable death! O deſirable paſſion! O ad<g ref="char:EOLhyphen"/>mirable profundity!</hi> The leaſt that we can do, is to have a continual memory of ſo great a benefit, of ſo great charity; and as the ſame holy Father ſaith, <hi>Sit nobis toto fixus in corde qui pro nobis fuit totus fixus in cruce.</hi> Let him be wholly fixed and placed in our hearts, who was wholly fixed and faſtened on the Croſs for us: and the Spouſe in the Canticles ſaith, Chap. 8. <hi>Put me as a ſeal upon thy heart, as a ſeal upon thy
+<pb n="74" facs="tcp:48468:49"/>arm:</hi> Let thy heart be alwayes occupi<g ref="char:EOLhyphen"/>ed in the cogitation and memory of my Paſſion, and let thy ſtrength, vertue, and force, be ſuſtained by the vertue of my ſufferings. I do alwayes con<g ref="char:EOLhyphen"/>ſerve the wounds of my body, that thou mighteſt keep the memory of my Paſ<g ref="char:EOLhyphen"/>ſion alwayes in thy mind and ſoul: the holy Ghoſt by the mouth of the Wiſe<g ref="char:EOLhyphen"/>man doth alſo invite us thereto, <hi>Eccl.</hi> 29. <hi>Forget not the kindneſs of a ſurety, for he hath given his life for thee.</hi> Let us, as St. <hi>Bernardine</hi> ſaith, <hi>by mental conſi<g ref="char:EOLhyphen"/>deration, gather together in a bundle all his deriſions, flagellations, thorns, nails, dolours, pains, exprobrations, mockings, buffets, blowes, ſpittings, confuſions, and ſuch like, to contemplate devoutly, behold mentally, and taſt ſweetly; that we may ſay with the Spouſe in the Canticles, Chap.</hi> 1. <hi>A bundle of myrrh, my beloved</hi> (in his Paſſion) <hi>is to me, he ſhall abide between my breaſts:</hi> that is, between our underſtanding, contemplating his paſſion, and our will or affection taſt<g ref="char:EOLhyphen"/>ing it.</p>
+               <p>How pleaſing this bundle was to the holy Father St. <hi>Francis,</hi> is manifeſt, in
+<pb n="75" facs="tcp:48468:49"/>that having had an apparition of our Saviour Crucified, his Soul was ſo pe<g ref="char:EOLhyphen"/>netrated by the force thereof, that thenceforth whenſoever it came to his mind, he could ſcarce containe him<g ref="char:EOLhyphen"/>ſelf from tears and ſighs. And S. <hi>Bona<g ref="char:EOLhyphen"/>venture</hi> ſaith of him, that Chriſt cruci<g ref="char:EOLhyphen"/>fied did continually abide between the breaſts of his mind, as a bundle of myrrh, into whom, by the fire of ex<g ref="char:EOLhyphen"/>ceſſive love, he deſired to be transform<g ref="char:EOLhyphen"/>ed. And in another place he ſaith, That by a ſevenfold apparition of our Saviour on the Croſs, he was wholly transformed into the Image of Chriſt crucified, by extatical love; and in the 13. Chapter of his life, he, in a manner aſſigneth the reaſon of that miracle (which Cardinal <hi>Bellarmine</hi> calleth <hi>the greateſt and moſt ſingular miracle of all others, and as it were a wonder of wonders</hi>) of his ſacred ſtigmats, to have been the continual meditation of Chriſts Paſſion. Conformably thereunto, St. <hi>Bernardine</hi> ſaith, <hi>He was transformed with ſo great love and fervent ardour into Jeſus Chriſt crucified, that by a miracle, never heard of in any ages, the benignity
+<pb n="76" facs="tcp:48468:50"/>of our Saviour hath impreſſed in his fleſh, the ſimilitude of his most holy Paſſion or<g ref="char:EOLhyphen"/>daining him his Standard-bearer, in a new rememoration of his Crucifying.</hi> And therefore Saint <hi>Antonine,</hi> the glory of St. <hi>Dominicks</hi> Order, and Arch-biſhop of <hi>Florence,</hi> ſaid, That <hi>becauſe the me<g ref="char:EOLhyphen"/>mory of Christs Paſſion ſeemed to be ex<g ref="char:EOLhyphen"/>tinguiſhed in the minds of men, through coldneſs and tepidity, therefore our Lord would exſuſcitate and renew the memory thereof, by the manifeſt impreſſion of his wounds or ſtigmats in the body of</hi> Saint <hi>Francis:</hi> whereby the Clemency of Al<g ref="char:EOLhyphen"/>mighty God (condeſcending to his lovers beyond all eſtimation) hath gi<g ref="char:EOLhyphen"/>ven him the banner of the Croſſe to be carried in his body; that he who was prevented by a wonderful love of the Croſs, might alſo become marvel<g ref="char:EOLhyphen"/>lous by the wonderful honour of the Croſs.</p>
+            </div>
+            <div type="section">
+               <head>How profitable a thing is it to have always the Paſſion of our Saviour in our Minds.</head>
+               <p>THe Devout ſervant of Chriſt Saint <hi>Francis</hi> (col. 23. of his works)
+<pb n="77" facs="tcp:48468:50"/>ſaith: <hi>I deſire you that you have always be<g ref="char:EOLhyphen"/>fore your eyes our Lords Paſſion, which will roborate you, and animate you to ſuffer more valiantly for him.</hi> And the Prince of the Apoſtles offereth us no other coat of fence, no other Armour againſt all incurſions and wounds, but this, ſaying, 1 <hi>Pet.</hi> 4. <hi>Chriſt having ſuffered in the fleſh, be you alſo armed with the ſame cogitations.</hi> As if he ſhould ſay, Chriſt hath ſuffered ſo great things for you, excogitate and conſider what ye ought to do, and ſuffer for him, ra<g ref="char:EOLhyphen"/>ther for your ſelves, to flie vice, and follow vertue, which he hath commen<g ref="char:EOLhyphen"/>ded unto us by his Paſſion. Saint <hi>Paul</hi> teacheth us the ſame, ſaying, <hi>Think di<g ref="char:EOLhyphen"/>ligently;</hi> ſeriouſly conſider and ponder <hi>him which ſuſtained ſuch contradiction;</hi> ſuch, and ſo great opprobries, mock<g ref="char:EOLhyphen"/>ings, contumelies, blows, ſtripes, tor<g ref="char:EOLhyphen"/>ments, and death of ſinners, and for ſinners, who did not only contradict him in words, but with deeds and ſtripes: <hi>That you be not wearied,</hi> or looſe your force, <hi>fainting in your minds,</hi> Heb. 12. Let us therefore arm our ſelves with the memory of this ſacred
+<pb n="78" facs="tcp:48468:51"/>Paſſion, becauſe nothing is trouble<g ref="char:EOLhyphen"/>ſome, nothing ſeemeth hard, nothing is accounted adverſe to him that re<g ref="char:EOLhyphen"/>membreth how, and what Chriſt ſuf<g ref="char:EOLhyphen"/>fered for him. There is no ſhield more efficacious to reſiſt temptations of the Devil, the Fleſh, and the World, than the cogitation of Chriſt crucified. And therefore holy Saint <hi>Bernard</hi> ſaid well, That <hi>ſuch is the vertue and force of the Croſs of Chriſt, that if it be conſerved faithfully in memory, no diſordinate de<g ref="char:EOLhyphen"/>ſires, no carnal delight, no deſire of ſin can prevail, but forthwith at the remem<g ref="char:EOLhyphen"/>brance thereof, all the ſquadrons of ſin will vaniſh.</hi> And in another place he ſaith: <hi>There is nothing ſo efficacious to heal the wounds of our conſcience, and to purge our ſouls, as the frequent medita<g ref="char:EOLhyphen"/>tion of the wounds of Chriſt.</hi> St. <hi>Auguſtin</hi> knew it by experience, ſaying of him<g ref="char:EOLhyphen"/>ſelf, <hi>In omnibus non inveni tam efficax remedium quam vulnera Chriſti,</hi> Manual. c. 32. <hi>I have not found in all things, ſo efficacious a remedy, as Chriſts Wounds.</hi> And in another place he ſaith, <hi>Nihil tam ſalutiferum nobis eſt, quam quotidie cogitare quanta pro nobis pertulit Deus.
+<pb n="79" facs="tcp:48468:51"/>There is nothing that conduceth more to our ſalvation than daily to think what great things Chriſt hath ſuffered for us.</hi> Becauſe the Sufferings or Paſſion of our Saviour, well conſidered, doth re<g ref="char:EOLhyphen"/>form all inordinate affections, extin<g ref="char:EOLhyphen"/>guiſh all flames of vice, and conſerve the fire of Devotion in our breaſts. No<g ref="char:EOLhyphen"/>thing more forceable to obtain Mercy, than the memory of that which is the Abyſſe of Mercy: ſo that <hi>Albertus Mag<g ref="char:EOLhyphen"/>nus</hi> had good reaſon to ſay, <hi>That there was nothing more ſatisfactory for our ſins, and to avoid Purgatory, than it.</hi> Yea, our Saviour revealed to St. <hi>Gertrude,</hi> that next to the Maſſe, and Communion, there was nothing more Meritorious than this exerciſe. And S. <hi>Catherine</hi> of <hi>Bolognia</hi> ſaith, <hi>That by it we may gain victory in every Combat, and without it we ſhall eaſily be vanquiſhed: it is the cure of all wounds, moſt comfortable refuge in all adverſity: it is food that ſuſtaineth and fortifieth the weak, ſpirits, it is moſt ſweet Manna, a ladder that eleva<g ref="char:EOLhyphen"/>teth our hearts to heaven; the har<g ref="char:EOLhyphen"/>bour of our ſouls, a fountain never dry, a moſt plentiful ſea, and moſt ſecure paſſage.</hi>
+                  <pb n="80" facs="tcp:48468:52"/>Saint <hi>Lydwine,</hi> having been ſick for the ſpace of eight and thirty years, had no other conſolation than the meditation of Chriſts Paſſion; for it giveth great force againſt all afflictions, and maketh us to fight: for, as to incite the Ele<g ref="char:EOLhyphen"/>phants to the battail, men ſhew them blood; even ſo by the repreſentation and memory of the blood of Chriſt ſhed for us on the Croſs, we take courage to fight againſt the world, to vanquiſh our appetites and deſires, to forſake all vain honours, riches and pleaſures: this is the armour that Saint <hi>Paul,</hi> St. <hi>Augu<g ref="char:EOLhyphen"/>ſtine,</hi> St. <hi>Francis,</hi> and many other Saints, have uſed againſt all temptati<g ref="char:EOLhyphen"/>ons; this is a preſent remedy for all tribulations and afflictions: It is im<g ref="char:EOLhyphen"/>poſſible to relate the great good that our ſouls may reap by this exerciſe: for as St. <hi>Bonaventure</hi> ſaith, we cannot offer to God a more acceptable ſacri<g ref="char:EOLhyphen"/>fice for the dead, nor bring greater joy to the Angels, nor give a more excel<g ref="char:EOLhyphen"/>lent ſign of recogniſance to the holy Trinity, than to employ our ſelves or<g ref="char:EOLhyphen"/>dinarily in it: And in another place he ſaith, That he that doth exerciſe
+<pb n="81" facs="tcp:48468:52"/>himſelf attentively and devoutly in it, findeth there abundantly all things that are profitable and neceſſary for him, and needeth not to ſeek any thing out of Jeſus crucified; and amongſt all other exerciſes of a ſpiritual life, none more profitable, none that carrieth the ſoul to a higher degree of perfection, than the meditation of the life and death of our Redeemer; which Chriſt himſelf hath revealed to a holy Her<g ref="char:EOLhyphen"/>mite, who earneſtly deſired Almighty God to ſhew him what ſervice would be moſt grateful to his Divine Majeſty; at length he ſaw one naked, ſhaking with cold, bearing a great Croſs, of whom he asked what he was? who re<g ref="char:EOLhyphen"/>plied: I am <hi>Jeſus Chriſt,</hi> thou haſt of<g ref="char:EOLhyphen"/>ten demanded to know what ſervice is moſt pleaſing unto me; aſſure thy ſelf, that to help me to bear my Croſſe, Wounds, and Paſſion, in thy heart, is moſt pleaſing and grateful unto me.</p>
+            </div>
+            <div type="section">
+               <pb n="82" facs="tcp:48468:53"/>
+               <head>The ſeveral Hours of the Paſſion of our Saviour, Whereby the Soul may be alwayes mindful of her Redemption.</head>
+               <p>AT 6. <hi>a clock in the Evening.</hi> Our moſt humble Redeemer, Jeſus Chriſt, true God and Man, on his knees, did waſh the Feet of his Di<g ref="char:EOLhyphen"/>ſciples: And ſhall not I caſt away all pride, and imitate the humility of my God, willingly exerciſing all offices, how baſe and humble ſoever, for the profit of my neighbour?</p>
+               <p>At 7. Our moſt charitable Redeemer <hi>Jeſus Chriſt,</hi> by an ineffable love to<g ref="char:EOLhyphen"/>wards men, gave them his body and his blood for the nurture of their ſouls, ordaining the bleſſed Sacrament of the Altar. What love ſhall I render to my Saviour for ſo great love? what deſire, what reverence, what affection ought I to have towards this venerable Sa<g ref="char:EOLhyphen"/>crament?</p>
+               <p>At 8. Our moſt amiable Redeemer <hi>Jeſus Christ,</hi> gave his laſt adieu to his faithful, recommending unto them mu<g ref="char:EOLhyphen"/>tual
+<pb n="83" facs="tcp:48468:53"/>Charity, demanding it of God his Father. O my Soul! by charity to one another, we are known whether we be true children of God.</p>
+               <p>At 9. Our moſt pious Redeemer <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> coming to the Garden of <hi>Olivet,</hi> ſurpriſed with a natural ſadneſs of death, had recourſe to prayer three times, and reſigned his will to God his Father, and did caſt a bloody ſweat from all his body: let us preſently run to God by prayer, when we are in any affliction or danger, let us never ſtay in the creatures, but caſt our ſelves in<g ref="char:EOLhyphen"/>to the hands of our Creator.</p>
+               <p>At 10. Our moſt couragious Re<g ref="char:EOLhyphen"/>deemer <hi>Jeſus Chriſt,</hi> goeth to meet his enemies, voluntarily offering himſelf to death; and refuſeth not to kiſs the Traytor <hi>Judas</hi> And ſhall I, O my God, dare to betray thee by my ſinne, for ſome baſe creature, or vain plea<g ref="char:EOLhyphen"/>ſure? it were better for me to embrace all the torments of this life, yea, to die, and ſo to ſuffer with my Saviour.</p>
+               <p>At 11. Our moſt milde Redeemer <hi>Jeſus Chriſt,</hi> did ſuffer himſelf to be taken by the wicked, and to be bound
+<pb n="84" facs="tcp:48468:54"/>with rough Cords, and to be treated as a malefactor and thief; and I, who, by my ſins, am the cauſe of all this, will not ſuffer any thing from my neighbor, without ſeeking revenge.</p>
+               <p>At 12. Our moſt ſweet Redeemer <hi>Jeſus Chriſt,</hi> Lamb of God, is outra<g ref="char:EOLhyphen"/>giouſly treated before <hi>Annas</hi> the high Prieſt; and he who is innocency it ſelf, is falſly accuſed before him, yet I, who am repleat with imperfections, and offences towards God and my neigh<g ref="char:EOLhyphen"/>bour, cannot endure that any ſhould accuſe me, or that any one ſhould re<g ref="char:EOLhyphen"/>prehend me.</p>
+               <p>At 1. Our moſt clement Redeemer <hi>Jeſus Chriſt,</hi> who is Goodneſs and Ju<g ref="char:EOLhyphen"/>ſtice it ſelf, and the Soveraign Judge of all, is rudely led from <hi>Annas</hi> to <hi>Cai<g ref="char:EOLhyphen"/>phas,</hi> a moſt wicked and moſt unjuſt Judge. But I cannot endure with pa<g ref="char:EOLhyphen"/>tience to be judged or condemned of my ſuperiours; of my equals, of my inferiours, be it right or wrong.</p>
+               <p>At 2. Our moſt wiſe Redeemer <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> did confeſs in the preſence of the high Prieſt, that he was the Son of God, although he received a blow
+<pb n="85" facs="tcp:48468:54"/>from the hand of a bloody butcher. Let us never leave to do good, or to ſerve God for the hate of men.</p>
+               <p>At 3. Our moſt amiable Redeemer <hi>Jeſus Christ,</hi> is denied by Saint <hi>Peter;</hi> but when our Bleſſed Saviour beheld him, he preſently repented, and bit<g ref="char:EOLhyphen"/>terly deplored his ſin. O Lord God, what man can preſume that he will not offend thee? let us bewail our ſins with Saint <hi>Peter.</hi>
+               </p>
+               <p>At 4. Our moſt meek Redeemer <hi>Je<g ref="char:EOLhyphen"/>ſus Chriſt,</hi> is blind-folded, ſpitted on, beaten, mocked, blaſphemed as a falſe Prophet. Conſider my ſoul, that thou haſt ſpitten upon the face of <hi>Jeſus Chriſt,</hi> that thou haſt mocked and blaſ<g ref="char:EOLhyphen"/>phemed him, when thou haſt done it to any one of thy neighbours, who are his Brethren.</p>
+               <p>At 5. Our moſt Innocent Redeemer <hi>Jeſus Chriſt,</hi> the Holy of Holies, in a full Aſſembly and Counſel of the Jews, is condemned to death through envy. O how this Paſſion of envy doth make us often-times to judg evil of others better than our ſelves.</p>
+               <p>At 6. Our moſt Gracious Redeemer
+<pb n="86" facs="tcp:48468:55"/>
+                  <hi>Jeſus Chriſt,</hi> is preſented to <hi>Pilate,</hi> and falſly accuſed: but not anſwering a word, he is found Innocent. O what ſilence of my Saviour ſo grievouſly ac<g ref="char:EOLhyphen"/>cuſed, and I, ſinner that I am, do no<g ref="char:EOLhyphen"/>thing but make excuſes.</p>
+               <p>At 7. Our moſt Prudent Redeemer <hi>Jeſus Christ,</hi> is ſent from <hi>Pilate</hi> to <hi>He<g ref="char:EOLhyphen"/>rod,</hi> and being demanded of vain things, held his peace; whereby he was mock<g ref="char:EOLhyphen"/>ed, eſteemed as a fool, and as ſuch is cloathed in a white garment. O how much ought we rather deſire to be con<g ref="char:EOLhyphen"/>temned of men, and not to condeſend to their evil will, than to diſpleaſe God!</p>
+               <p>At 8. Our moſt Juſt Redeemer <hi>Jeſus Chriſt,</hi> is ſent from <hi>Herod</hi> to <hi>Pilate,</hi> and <hi>Barrabas</hi> the murderer is preferred be<g ref="char:EOLhyphen"/>fore him. And thou ſinner, doſt thou not do the ſame? doſt thou not prefer the Devil before God, when thou in<g ref="char:EOLhyphen"/>clineſt to vice, and forſakeſt vertue?</p>
+               <p>At 9. Our moſt Dolorous Redeemer <hi>Jeſus Chriſt,</hi> is moſt rudely deſpoyled, and bound all naked to a pillar, moſt cruelly whipped, all torn with ſtripes, and bruiſed with blows. Behold, O
+<pb n="87" facs="tcp:48468:55"/>my ſoul, how they handle the Virginal fleſh of thy Saviour, and how thou doſt flatter and pamper thine, which hath ſo much offended.</p>
+               <p>At 10. Our moſt Patient Redeemer <hi>Jeſus Chriſt,</hi> reveſted with purple, crowned with thorns, having a reed for a ſcepter, is ſhewn to thee for a pattern of patience and all vertue, if thou wilt be glorified by him. O how much ought I to be aſhamed, to be ſo delicate a member under a head crown<g ref="char:EOLhyphen"/>ed with thorns for me.</p>
+               <p>At 11. Our moſt conſtant Redeemer <hi>Jeſus Chriſt,</hi> condemned to death by <hi>Pilate,</hi> carrieth his own Croſs to Mount Calvary. Whoſoever will follow him to Paradiſe, he muſt carry the Croſſe (which are the afflictions of this life) after him with patience.</p>
+               <p>At 12. Our moſt obedient Redeemer <hi>Jeſus Christ,</hi> is ſtretched out, nailed and elevated upon the Croſs, between two theeves, for the ſalvation of the world. Since our ſinnes have been ſo puniſhed in the perſon of our Redeem<g ref="char:EOLhyphen"/>er. How ſhall they be puniſhed in ſin<g ref="char:EOLhyphen"/>ners, if they do not amend.</p>
+               <pb n="88" facs="tcp:48468:56"/>
+               <p>At 1. Our moſt merciful Redeemer <hi>Jeſus Chriſt,</hi> did pray for thoſe that crucified him, and promiſed Paradiſe to the good Thief. Let us alſo pardon thoſe that offend againſt us, if we will that God ſhould pardon us.</p>
+               <p>At 2. Our moſt Devout Redeemer <hi>Jeſus Chriſt,</hi> did give Saint <hi>John</hi> to his Mother, for her Son; and his Mother to Saint <hi>John,</hi> for a Mother. O what affection did Saint <hi>John</hi> bear to the Mo<g ref="char:EOLhyphen"/>ther of God: O that my ſoul might burn with the like devotion to the bleſ<g ref="char:EOLhyphen"/>ſed Virgin.</p>
+               <p>At 3. Our moſt Perfect Redeemer <hi>Jeſus Chriſt,</hi> did cry out, <hi>My God, my God, Why haſt thou forſaken me? I thirſt: All is conſummated;</hi> and recommend<g ref="char:EOLhyphen"/>ing his Spirit to God the Father, he expired. Let the earth tremble, the dead ariſe, the Sun be darkened, day become night; ſince the Creator and Saviour of the world is dead: but thou O my ſoul, awake from ſin.</p>
+               <p>At 4. Our moſt victorious Redeemer <hi>Jeſus Chriſt,</hi> being dead, his Soul de<g ref="char:EOLhyphen"/>ſcended to Limbo, for to deliver the elect; in the mean time his body tranſ<g ref="char:EOLhyphen"/>pierced
+<pb n="89" facs="tcp:48468:56"/>with a lance, doth ſhed forth blood and water. Enter O my Soul, within the ſide of <hi>Jeſus Christ,</hi> by a great conſidence in his mercy, give heart for heart, love for love, to him that hath done and given all for thee.</p>
+               <p>At 5. The precious body of our Re<g ref="char:EOLhyphen"/>deemer <hi>Jeſus Chriſt,</hi> being taken down from the Croſs, is put into the arms of the Virgin, his Mother, and afterward is moſt honourably buried. Receive my Soul, receive him in thy memory, and retain this ſacred Paſſion of <hi>Jeſus Chriſt</hi> in all thy thoughts, words, and works, living in ſuch ſort, that thou mayeſt be worthy of the name of a Chriſtian, redeemed by the precious blood of the Son of God.</p>
+               <p>The Soul of Chriſt ſanctifie me, the body of Chriſt ſave me, the precious blood of <hi>Jeſus Christ</hi> inebriate me, the water of the ſide of <hi>Jeſus Chriſt</hi> waſh me, the Paſſion of <hi>Jeſus Chriſt</hi> comfort me: O good <hi>Jeſus</hi> hear me: hide me in thy holy wounds, ſuffer me not to be ſeparated from thee; defend me from the malign enemy, call me at the hour of my death, and command me
+<pb n="90" facs="tcp:48468:57"/>to come to thee, for to praiſe, bleſs, and glorifie thee eternally, with thy Saints. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>The Obligations and Rules of this Confraternity.</head>
+               <p n="1">1. ALL thoſe that are to be admit<g ref="char:EOLhyphen"/>ted into this Confraternity, are to be of that age, that they may confeſs and communicate; which is gathered by the expreſs words of the Bull, in that it ordains, that at their entrance they are to confeſs and communicate.</p>
+               <p n="2">2. They ſhall endeavour daily, morn<g ref="char:EOLhyphen"/>ing and evening, to make examine of their conſcience, and to ſay ſome prayers, according to each ones devo<g ref="char:EOLhyphen"/>tion; but principally (for the gaining of the Indulgences) five <hi>Paters and Aves,</hi> adding to the end of each one, the <hi>Gloria Patri, &amp;c.</hi> ſaluring devoutly the five Wounds of our Saviour, where<g ref="char:EOLhyphen"/>to they muſt join one <hi>Pater &amp; Ave</hi> for the Popes Holineſs; which, after the example of the Frier-Minors; if they be not hindred by Infirmity, or other<g ref="char:EOLhyphen"/>wiſe, they may ſay with their armes
+<pb n="91" facs="tcp:48468:57"/>ſtretched out, in manner of a Croſs, according as hereafter ſhall be decla<g ref="char:EOLhyphen"/>red.</p>
+               <p n="3">3. The end of this Confraternity is vertue, Chriſtian piety, and imita<g ref="char:EOLhyphen"/>tion of our Saviour in his Paſſion; and therefore the Brethren and Siſters thereof, ought diligently to obſerve the Commandements of God, and his Church; and above all things, not to give any ſcandal, but good example, in all things, and bear alwayes in their mind, <hi>Jeſus Chriſt</hi> crucified.</p>
+               <p n="4">4. All the Brethren and Siſters, are to confeſs and communicate once eve<g ref="char:EOLhyphen"/>ry month, on all the Feaſts in the year, principally on all the Feaſts of our Lord, of the Bleſſed Virgin, and of the Saints of the Order of the Friar Mi<g ref="char:EOLhyphen"/>nors; if they will communicate oftner, they may, ſo it be done with the ad<g ref="char:EOLhyphen"/>vice of their Ghoſtly Father.</p>
+               <p n="5">5. They muſt ſhew themſelves very diligent in the ſervice of God, in hear<g ref="char:EOLhyphen"/>ing Sermons, Maſs, and other exerciſes of Devotion.</p>
+               <p n="6">6. They are to be preſent at the monthly Proceſſions of the Confrater<g ref="char:EOLhyphen"/>nity,
+<pb n="92" facs="tcp:48468:58"/>which ordinarily are on the ſe<g ref="char:EOLhyphen"/>cond Sundays of the Month; as alſo at the Proceſſion on our Lady of Angels day, which is the principal Feaſt of this Confraternity. They ſhall do well to be preſent at all the Proceſſions of the Order.</p>
+               <p n="7">7. When any of the Confraternity die, each one ſhall endeavour to be preſent at the burial, and thereto pray for the ſoul departed! and they ſhall never fail to aſſiſt the poor in ſuch oc<g ref="char:EOLhyphen"/>caſions, be they of the Confraternity or no.</p>
+               <p n="8">8. They are to help the poor, and viſit the ſick, eſpecially in hoſpitals, and priſons, and never omit to accom<g ref="char:EOLhyphen"/>pany the Bleſſed Sacrament to them.</p>
+               <p n="9">9. They are to pray for the Dead in all their exerciſes, for to that end the Pope hath granted that ſpecial fa<g ref="char:EOLhyphen"/>vour and Grace of applying all the a<g ref="char:EOLhyphen"/>foreſaid Indulgences for the Dead.</p>
+               <p n="10">10. They are to bear great devotion and reverence to the Seraphical Fa<g ref="char:EOLhyphen"/>ther St. <hi>Francis,</hi> whom they have cho<g ref="char:EOLhyphen"/>ſen for their Patron, and who, no doubt, will inceſſantly pray for them;
+<pb n="93" facs="tcp:48468:58"/>and muſt endeavour to imitate him in his devotion to our bleſſed Lady, but principally to the Paſſion of our Savi<g ref="char:EOLhyphen"/>our.</p>
+               <p n="11">11. If any one at the time of their death deſire to be more perfectly uni<g ref="char:EOLhyphen"/>ted to the Order, they may requeſt the habit of the Frier-Minors, which by reaſon of this Cord they are capable of, as many Chriſtians of all ſorts, even Popes themſelves have done.</p>
+               <p n="12">12. Let them know, that they are bound to none of theſe under ſin, either mortal, or venial; but each, according to the reſolution he maketh at the en<g ref="char:EOLhyphen"/>trance into this Confraternity, muſt endeavour to ſhew their devotion in their practices, that they may not be ſaid to abuſe the talent received, and ſo looſe the merit and reward they might obtain.</p>
+               <p n="13">13. For the gaining of all Indul<g ref="char:EOLhyphen"/>gences, granted to this Confrater<g ref="char:EOLhyphen"/>nity, it is neceſſary that they be in ſtate of Grace, and that they accompliſh the works, and other things enjoyned for that end, with intention to gain the Indulgence.</p>
+            </div>
+            <div type="section">
+               <pb n="94" facs="tcp:48468:59"/>
+               <head>A brief Declaration of the prin<g ref="char:EOLhyphen"/>cipal Indulgences of this Arch-Confraternity.</head>
+               <p>A Plenary Indulgence on the day of their enterance into this Con<g ref="char:EOLhyphen"/>fraternity.</p>
+               <p>Once in their lives, when they pleaſe, with a plenary Abſolution.</p>
+               <p>Four times every year, at their plea<g ref="char:EOLhyphen"/>ſure, with a plenary Abſolution alſo.</p>
+               <p>At the Article of Death, by invoca<g ref="char:EOLhyphen"/>ting the Name of <hi>Jeſus.</hi>
+               </p>
+               <p>On all the Feaſts of our Lord, to wit on Chriſtmas day, New-years day, Twelf day, Eaſter day, Aſcenſion day, Whitſunday, Corpus Chriſti day, and the Transfiguration: on all the Feaſts of our Lady, Conception, Nativity, Pre<g ref="char:EOLhyphen"/>ſentation, Annunciation, Purification, Aſſumption, and <hi>ad Nives.</hi> Alſo on the Feaſt of our Lady of Angels, which is the principal feaſt of this Confrater<g ref="char:EOLhyphen"/>nity.</p>
+               <p>On all the Feaſts of the Order of St. <hi>Francis,</hi> S. <hi>Bonaventure,</hi> S. <hi>Lewis,</hi> S. <hi>Antonie,</hi> S. <hi>Bernardine,</hi> S. <hi>Didaeus,</hi> the
+<pb n="95" facs="tcp:48468:59"/>7 Martyrs, the 5 Martyrs, S. <hi>Clare,</hi> and S. <hi>Elizabeth</hi> of Hungary.</p>
+               <p>On the Feaſts of all the Apoſtles and Evangeliſts.</p>
+               <p>On all the Sundayes of the year.</p>
+               <p>Alſo on S. <hi>Agnes,</hi> S. <hi>Joſeph,</hi> S. <hi>Mary Magdalen,</hi> S. <hi>Anne,</hi> S. <hi>Laurence,</hi> S. <hi>Augu<g ref="char:EOLhyphen"/>ſtine,</hi> S. <hi>Michael,</hi> S. <hi>Catherine,</hi> S. <hi>Nicolas,</hi> S. <hi>Stephen.</hi>
+               </p>
+               <p>On the Feaſt of S. <hi>John Baptiſt,</hi> of the holy Croſs, on Innocents day, on all Saints, and all Souls day, with many other: in all which the Brethren may gain a plenary Indulgence, provided that they confeſs and communicate.</p>
+               <p>For aſſiſting at the monthly Proceſſi<g ref="char:EOLhyphen"/>on, for ſaying the Crown of our Savi<g ref="char:EOLhyphen"/>our; for ſaying the crown of our Lady, containing 72 <hi>Paters</hi> and <hi>Aves,</hi> with a <hi>Pater</hi> and <hi>Ave</hi> for his Holineſs.</p>
+               <p>For celebrating or hearing the Maſs of the Conception, for ſaying the ten Paſſional Pſalms, or for ſaying the Gra<g ref="char:EOLhyphen"/>dual Pſalms.</p>
+               <p>All which Indulgences, together with the Indulgences of the Stations of <hi>Rome, Jeruſalem,</hi> and <hi>Compoſtella,</hi> the Brethren of the Cord may gain, by
+<pb n="96" facs="tcp:48468:60"/>ſaying five <hi>Paters</hi> and <hi>Aves</hi> in the ho<g ref="char:EOLhyphen"/>nour of the five Wounds of our Savi<g ref="char:EOLhyphen"/>our, adding one <hi>Pater</hi> and <hi>Ave</hi> for his Holineſs: There are many other which are too long to be ſet down here.</p>
+               <p>The ſick Brethren, and ſuch as have any Impediment, that they cannot come to the Church, (which is much to be noted for thoſe in <hi>England</hi>) may gain the aforeſaid Indulgences, in any place where they are.</p>
+               <p>I have thought it convenient, to ſet down the particular Indulgences of the City of <hi>Rome,</hi> which were printed in the time of Pope <hi>Gregory</hi> the <hi>XIII.</hi> and afterwards by one <hi>Hierom Francin,</hi> with the approbation of Pope <hi>Sixtus V.</hi> who deſired that they ſhould be ſet forth in divers languages, which hath been done in Latine, French, Spaniſh, Italian, and others; and laſtly, in our Vulgar, where the ſtudious Reader may ſee them at full.</p>
+            </div>
+            <div type="section">
+               <head>STATIONS OF ROME.</head>
+               <list>
+                  <head>January.</head>
+                  <item>1.|Circumciſion or our New-years day.</item>
+                  <pb n="97" facs="tcp:48468:60"/>
+                  <item>6. Epiphany.</item>
+                  <item>13. The Octave of the Epiphany.</item>
+                  <item>14. <hi>The feaſt of the holy Name of</hi> JE<g ref="char:EOLhyphen"/>SUS.</item>
+                  <item>16. <hi>Five firſt Martyrs Franſciſcans.</hi>
+                  </item>
+                  <item>17. St. Anthony Abbot.</item>
+                  <item>18. The Chair of S. Peter at Rome.</item>
+                  <item>20. S. Sebaſtian.</item>
+                  <item>21. S. Agnes.</item>
+                  <item>23. Converſion of S. Paul.</item>
+                  <item>28. Agnes the ſecond.</item>
+               </list>
+               <list>
+                  <head>February.</head>
+                  <item>2. Purification or Candlemas day.</item>
+                  <item>5. 23. <hi>Franciſcan Martyrs of Japonia.</hi>
+                  </item>
+                  <item>15. <hi>Tranſlation of S. Antony of Padua.</hi>
+                  </item>
+                  <item>19. S. <hi>Conrade of the Third Order.</hi>
+                  </item>
+                  <item>22. S. Peters Chair at Antioch.</item>
+                  <item>23. S. <hi>Margarite of Cortona,</hi> 3. <hi>Order.</hi>
+                  </item>
+                  <item>24. S. Matthias Apoſtle.</item>
+               </list>
+               <list>
+                  <head>March.</head>
+                  <item>6. S. <hi>Collet poor Clare.</hi>
+                  </item>
+                  <item>7. S. Thomas of Aquin.</item>
+                  <item>12. S. Gregory.</item>
+                  <item>14. <hi>Tranſlation of</hi> S. <hi>Bonaventure.</hi>
+                  </item>
+                  <item>19. S. Joſeph.</item>
+                  <item>20. S. Benedicts Eve and Day.</item>
+                  <item>25. Annunciation of our Lady.</item>
+               </list>
+               <list>
+                  <head>April.</head>
+                  <item>23. S. George.</item>
+                  <pb n="98" facs="tcp:48468:61"/>
+                  <item>25. S. Mark</item>
+                  <item>29. S. Peter Martyr.</item>
+               </list>
+               <list>
+                  <head>May.</head>
+                  <item>1. S. Philip and James.</item>
+                  <item>3. Invention of the holy Croſs.</item>
+                  <item>6. S. John and Portam Latinam.</item>
+                  <item>8. The Apparition of S. Michael.</item>
+                  <item>13. S. <hi>Paſchal.</hi>
+                  </item>
+                  <item>18. <hi>Tranſlation of</hi> S. <hi>Bernardine.</hi>
+                  </item>
+                  <item>19. S. <hi>Felix.</hi>
+                  </item>
+                  <item>20. S. <hi>Bernardine.</hi>
+                  </item>
+                  <item>23. <hi>Tranſlation of</hi> S. <hi>Francis.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>June.</head>
+                  <item>13. <hi>Antony of Padua.</hi>
+                  </item>
+                  <item>24. S. John Baptiſt.</item>
+                  <item>29. S. Peter and Paul.</item>
+                  <item>30. Commemoration of S. Paul.</item>
+               </list>
+               <list>
+                  <head>July.</head>
+                  <item>1. The octave of S. John Baptiſt.</item>
+                  <item>2. The Viſitation of our Lady.</item>
+                  <item>4. S. <hi>Elizabeth of Portugal.</hi>
+                  </item>
+                  <item>14. S. <hi>Bonaventure.</hi>
+                  </item>
+                  <item>17. S. Alexius.</item>
+                  <item>22. S. Mary Magdalen.</item>
+                  <item>25. S. James the Apoſtle.</item>
+                  <item>26. S. Anne</item>
+               </list>
+               <list>
+                  <head>Auguſt.</head>
+                  <item>1. S. Petri ad vincula, and 8 days fol<g ref="char:EOLhyphen"/>lowing.</item>
+                  <pb n="99" facs="tcp:48468:61"/>
+                  <item>2. <hi>Our Lady of Angels.</hi> Feaſt of the</item>
+                  <item>3. Cord.</item>
+                  <item>Invention of S. Steven.</item>
+                  <item>4. S. Dominick.</item>
+                  <item>5. Our Lady ad Nives.</item>
+                  <item>6. Transfiguration of our Lord.</item>
+                  <item>10. S. Laurence, and through his whole octave.</item>
+                  <item>12. S. <hi>Clare.</hi>
+                  </item>
+                  <item>15. Aſſumption of our Lady.</item>
+                  <item>16. S. <hi>Roch.</hi>
+                  </item>
+                  <item>19. S. <hi>Lewis Biſhop.</hi>
+                  </item>
+                  <item>22. The Octave of the Aſſumption.</item>
+                  <item>24. S. Bartholomew Apoſtle.</item>
+                  <item>25. S. <hi>Lewis King.</hi>
+                  </item>
+                  <item>28. S. Auguſtine.</item>
+                  <item>29. The beheading of S. John.</item>
+               </list>
+               <list>
+                  <head>September.</head>
+                  <item>4. S. <hi>Roſe of Viterbia.</hi>
+                  </item>
+                  <item>7. The Eve of the Nativity.</item>
+                  <item>8. The Nativity of our Lady.</item>
+                  <item>9. S. Nicolas Tolentine.</item>
+                  <item>14. The Exaltation of the holy Croſs.</item>
+                  <item>17. <hi>The Stigmats of</hi> S. <hi>Francis.</hi>
+                  </item>
+                  <item>21. S. Mathew.</item>
+                  <item>27. S. <hi>Elzearo.</hi>
+                  </item>
+                  <item>29. S. Michael.</item>
+                  <item>30. S. Hierom.</item>
+               </list>
+               <list>
+                  <pb n="100" facs="tcp:48468:62"/>
+                  <head>October.</head>
+                  <item>2. <hi>Tranſlation of</hi> S. <hi>Clare.</hi>
+                  </item>
+                  <item>4. <hi>Our holy Father</hi> S. <hi>Francis, and all the Octave.</hi>
+                  </item>
+                  <item>13. 7 <hi>Franciſcane Martyrs.</hi>
+                  </item>
+                  <item>18. S. Luke.</item>
+                  <item>19 S. <hi>Peter Alcantara.</hi>
+                  </item>
+                  <item>23. S. <hi>John Capiſtran.</hi>
+                  </item>
+                  <item>27. S. <hi>Juo.</hi>
+                  </item>
+                  <item>28. SS. Simon and Jude.</item>
+               </list>
+               <list>
+                  <head>November.</head>
+                  <item>1. All Saints.</item>
+                  <item>2. All Souls, and the whole Octave.</item>
+                  <item>9. Dedication of our Saviours Church</item>
+                  <item>10. <hi>Tranſlation of</hi> S. <hi>Lewis.</hi>
+                  </item>
+                  <item>12. S. <hi>Didacus.</hi>
+                  </item>
+                  <item>18. Dedication of S. Peters Church.</item>
+                  <item>19. S. <hi>Elizabeth of Hungarie.</hi>
+                  </item>
+                  <item>21. Preſentation of our Lady.</item>
+                  <item>22. S. <hi>Cecily.</hi>
+                  </item>
+                  <item>23. S. Clement.</item>
+                  <item>28. S. <hi>James of Marchia.</hi>
+                  </item>
+                  <item>30. S. Andrew Apoſtle.</item>
+               </list>
+               <list>
+                  <head>December.</head>
+                  <item>6. S. Nicholas.</item>
+                  <item>7. S. Ambroſe.</item>
+                  <item>8. The Conception of our B. Lady.</item>
+                  <item>Patroneſs of the Order.</item>
+                  <pb n="101" facs="tcp:48468:62"/>
+                  <item>21. S. Thomas Apoſtle.</item>
+                  <item>24. Chriſtmas Eve.</item>
+                  <item>25. Chriſtmas day.</item>
+                  <item>26. S. Stephens.</item>
+                  <item>27. S. John.</item>
+                  <item>28. Innocents day.</item>
+                  <item>31. S. Silveſter.</item>
+               </list>
+               <list>
+                  <head>Of the moveable Feaſts.</head>
+                  <item>ON all the Sundays of Advent.</item>
+                  <item>On the three Ember dayes.</item>
+                  <item>On Septuageſima Sunday.</item>
+                  <item>On Sexageſima Sunday.</item>
+                  <item>On quinquageſima Sunday.</item>
+                  <item>On Lent, from Aſhwedneſday to Low Sunday incluſively.</item>
+                  <item>On all the Sundayes of May.</item>
+                  <item>On the Aſcenſion day.</item>
+                  <item>On Whitſon Eve.</item>
+                  <item>On Whitſonday, and all the Octave.</item>
+                  <item>On Corpus Chriſti day.</item>
+                  <item>From the 8 of May unto the 1 day of Auguſt.</item>
+               </list>
+               <p>Note here, that there is no day in the Year, but there are ſome Indul<g ref="char:EOLhyphen"/>gences to be gained, which the Bre<g ref="char:EOLhyphen"/>thren
+<pb n="102" facs="tcp:48468:63"/>of this Confraternity may gain, by ſaying the five <hi>Paters &amp; Aves,</hi> as aforeſaid.</p>
+               <p>He that would ſee the validity of theſe Indulgences, and many good things, as the Popes Bulls concerning this Arch-Confraternity, and the Office of our Seraphical Father S. <hi>Francis,</hi> let him read the great Manual of the Pi<g ref="char:EOLhyphen"/>ous and Learned man, <hi>Father Angelus Francis.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>The Benediction of the Cord.</head>
+               <lg>
+                  <l>
+                     <hi>Verſus.</hi> Adjutorium noſtrum in nomine Domini.</l>
+                  <l>
+                     <hi>Reſp.</hi> Qui fecit coelum &amp; terram.</l>
+                  <l>
+                     <hi>Verſus.</hi> Sit nomen Domini benedictum.</l>
+                  <l>
+                     <hi>Reſp.</hi> Ex hoc nunc &amp; uſque in ſaeculum.</l>
+                  <l>
+                     <hi>Verſus.</hi> Domine exaudi orationem me<g ref="char:EOLhyphen"/>am.</l>
+                  <l>
+                     <hi>Reſp.</hi> Et clamor meus ad te veniat.</l>
+                  <l>
+                     <hi>Verſus.</hi> Dominus vobiſcum.</l>
+                  <l>
+                     <hi>Reſp.</hi> Et cum Spiritu tuo.</l>
+               </lg>
+               <pb n="103" facs="tcp:48468:63"/>
+               <p>Oremus.</p>
+               <p>DOmine Jeſu Chriſte Fili Dei vivi, qui funibus in Paſſione ligari vo<g ref="char:EOLhyphen"/>luiſti, &amp; Beatum Petrum Apoſtolum tuum a vinculis abſolutum illaeſum abi<g ref="char:EOLhyphen"/>re feciſti, te ſuppliciter deprecamur: ut hos funiculos quos ad imitationem almi Patris noſtri B. Franciſci Confeſ<g ref="char:EOLhyphen"/>ſoris atque ſigniferi tui, in cingula cor<g ref="char:EOLhyphen"/>porum ſuorum creaturae elegerunt, &amp; ut ſtrictius tibi conjungantur atque fir<g ref="char:EOLhyphen"/>mius famulentur ferre decreverunt, Be<g ref="char:EOLhyphen"/>ne<g ref="char:cross">✚</g>dicere &amp; una cum famulis tuis qui eis cingentur Sancti<g ref="char:cross">✚</g>ficare digneris, ut ſumbos ſuos caſtitate praecinctos gerant, ſitque illis juſtitia cingulum lum borum eorum &amp; fides cinctorium renum eo<g ref="char:EOLhyphen"/>rum. Da eis, quaeſumus Domine; Spi<g ref="char:EOLhyphen"/>ritum Sanctum tuum, qui eos in bono propoſito conſervet, fide &amp; operibus au<g ref="char:EOLhyphen"/>geat, omnium virtutum incrementa praebeat, dona ſua concedat, &amp; tandem ad aeternam gloriam conducat, in qua vivis &amp; regnas cum Deo Patre in uni<g ref="char:EOLhyphen"/>tate ejuſdem Spiritus Sancti. Amen.</p>
+               <pb n="104" facs="tcp:48468:64"/>
+               <p>Oremus.</p>
+               <p>OMnipotens ſempiterne Deus, qui ut ſervos vinctos abſolveres, Fi<g ref="char:EOLhyphen"/>lium tuum unigenitum funibus ligari voluiſti, Bene<g ref="char:cross">✚</g>dic quaeſumus funculos iſtos ut famuli tui qui eis veluti ligami<g ref="char:EOLhyphen"/>ne poenitentiali cingi ambiunt: vincu<g ref="char:EOLhyphen"/>lorum ejuſdem Filii tui Domini noſtri memores exiſtant; in ſtatu devotionis ſalubriter perſeverent, &amp; a peccatorum ſuorum funibus ſoluti, tuis cum effectu ſemper obſequiis ſe ligatos eſſe cognoſ<g ref="char:EOLhyphen"/>cant. Per eundum Chriſtum Dominum noſtrum. Amen.</p>
+               <p>
+                  <hi>Aſpergendo chordas cum aqua benedie<g ref="char:EOLhyphen"/>ta dicas</hi> Benedictio Dei Patris &amp; Filii &amp; Spiritus Sancti deſcendat ſuper has chordas: <hi>Reſp.</hi> Amen.</p>
+               <p>
+                  <hi>Cingendo ad ſingulos dicat,</hi> Accipe cin<g ref="char:EOLhyphen"/>gulum iſtud &amp; Paratus vel [parata] eſto alligari &amp; mori pro Domino Jeſu Chri<g ref="char:EOLhyphen"/>ſto, qui praecingat lumbos mentis tuae cingulo puritatis ut permaneat in te virtus continentiae &amp; caſtitatis &amp; Deo ſemper in omnibus obedias.</p>
+               <p>
+                  <hi>Poſte aquam omnes ſunt cincti dicat.</hi>
+               </p>
+               <pb n="105" facs="tcp:48468:64"/>
+               <p>Oremus.</p>
+               <p>
+                  <hi>DEus qui Beato Petro Apoſtolo tuo prae<g ref="char:EOLhyphen"/>dixiſti in ſenectute ſua per alium ſe fore cingendum, famulos tuos quos cingu<g ref="char:EOLhyphen"/>lis noſtrae fraternitatis praecinximus, tua quaeſumus chorda ſalutari corda eorum Chriſtiana praecinge diſciplina; ut tui opi<g ref="char:EOLhyphen"/>tulante gratia ſoluti &amp; liberati à vitiis tuoque vincti ſervitio in ſtatu devotionis uſ<g ref="char:EOLhyphen"/>que in finem jugiter perſeverent. Qui vi<g ref="char:EOLhyphen"/>vis &amp; regnas in ſaeculorum. Amen.</hi>
+               </p>
+               <p>Finalis Benedictio.</p>
+               <p>
+                  <hi>BEnedictio Sanctiſſimae Trinitatis, Pa<g ref="char:EOLhyphen"/>tris, &amp; Filii, &amp; Spiritus Sancti de<g ref="char:EOLhyphen"/>ſcendat ſuper vos, ut ſicut chordis corpora veſira circundatis, ita animas fide, Jeſu Chriſti &amp; bonis operibus decoretis, quate<g ref="char:EOLhyphen"/>nus ſuam gratiam in hoc ſaeculo, &amp; in fu<g ref="char:EOLhyphen"/>turo gloriam habeatis aeternam. Amen.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <pb n="106" facs="tcp:48468:65"/>
+               <head>The Benediction of the Cord for one alone.</head>
+               <lg>
+                  <l>
+                     <hi>Verſus.</hi> Adjutorium noſtrum in nomine Domini.</l>
+                  <l>
+                     <hi>Reſp.</hi> Qui fecit coelum &amp; terram.</l>
+                  <l>
+                     <hi>Verſus.</hi> Sit nomen Domini benedi<g ref="char:EOLhyphen"/>ctum.</l>
+                  <l>
+                     <hi>Reſp.</hi> Ex hoc nunc &amp; uſque in ſaecu<g ref="char:EOLhyphen"/>lum.</l>
+                  <l>
+                     <hi>Verſus.</hi> Domine exaudi orationem meam.</l>
+                  <l>
+                     <hi>Reſp.</hi> Et clamor meus ad te veniat.</l>
+                  <l>
+                     <hi>Verſus.</hi> Dominus vobiſcum.</l>
+                  <l>
+                     <hi>Reſp.</hi> Et cum ſpiritu tuo.</l>
+               </lg>
+               <p>Oremus.</p>
+               <p>
+                  <hi>DOmine Jeſu Chriſte Filii Dei vivi, qui funibus in paſſione ligari voluiſti, &amp; beatum Petrum Apoſtolum tuum à vincu<g ref="char:EOLhyphen"/>lis abſolutum illaeſum abire fecisti, te ſup<g ref="char:EOLhyphen"/>pliciter deprecamur, ut hunc funiculum, quem ad imitationem almi Patris noſtri Beati Franciſci Confeſſoris atque ſigniferi tui, in cingulum corporis ſui creatura ele<g ref="char:EOLhyphen"/>git, &amp; ut ſtrictius tibi conjungatur atque
+<pb n="107" facs="tcp:48468:65"/>firmius famuletur, ferre decrevit bene<g ref="char:cross">✚</g>di<g ref="char:EOLhyphen"/>cere, &amp; una cum famulo tuo [qui</hi> vel <hi>[fa<g ref="char:EOLhyphen"/>mula tua] quae] ea cingetur, ſancti<g ref="char:cross">✚</g>ficare digneris, ut lumbos ſuos caſtitate praecin<g ref="char:EOLhyphen"/>ctos, gerat, ſit que illi juſtitia cingulum lum<g ref="char:EOLhyphen"/>borum ejus, &amp; fides cinctorium renum ejus. Da ei quaeſumus Domine, Spiritum San<g ref="char:EOLhyphen"/>ctum tuum, qui eum</hi> vel <hi>[eam] in bono propoſito conſervet, fide &amp; operibus au<g ref="char:EOLhyphen"/>geat, omnium virtutum incrementa prae<g ref="char:EOLhyphen"/>beat, dona ſua concedat, &amp; tandem ad aeternam gloriam conducat, in qua vivis &amp; regnas cum Deo Patre in unitate ejuſdem Spiritus ſancti. Amen.</hi>
+               </p>
+               <p>Oremus.</p>
+               <p>
+                  <hi>OMnipotens ſempiterne Deus, qui ut ſervos vinctos abſolveres, Filium tuum unigenitum funibus ligari voluiſti, bene<g ref="char:cross">✚</g>dic quaeſumus funiculum iſtum, ut famulus tuus, qui</hi> vel <hi>famula tua, [quae] eo velut ligamine poenitentiali cingi am<g ref="char:EOLhyphen"/>bit, vinculorum ejuſdem Filii tui Domini nostri Jeſu Chriſti memor exiſtat, &amp; in ſta<g ref="char:EOLhyphen"/>tu devotionis ſalubriter perſeveret, à pec<g ref="char:EOLhyphen"/>catorum ſuorum funibus ſolutus,</hi> vel <hi>[ſolu<g ref="char:EOLhyphen"/>ta] tuis cum effectu ſemper obſequiis liga<g ref="char:EOLhyphen"/>tum</hi>
+                  <pb n="108" facs="tcp:48468:66"/>vel <hi>[ligatam] ſe eſſe cognoſcat. Per eundem Chriſtum Dominum noſtrum. Amen.</hi>
+               </p>
+               <p>Here the Cord is to be ſprinkled with Holy-water; and then the party that receives it, is to be girded there<g ref="char:EOLhyphen"/>with: the Prieſt ſaying as followeth.</p>
+               <p>
+                  <hi>ACcipe cingulum iſtud, &amp; paratus</hi> vel <hi>[parata] eſto alligari, &amp; mori pro Domino noſtro Jeſu Chriſto, qui praecingat lumbos mentis tuae cingulo puritatis, ut permaneat in te virtus continentiae &amp; ea<g ref="char:EOLhyphen"/>ſtitatis, &amp; Deo ſemper in omnibus obedias. Amen.</hi>
+               </p>
+               <p>The Prieſt is to ſay this following pray<g ref="char:EOLhyphen"/>er, upon the party that hath re<g ref="char:EOLhyphen"/>ceived the Cord.</p>
+               <p>Oremus.</p>
+               <p>
+                  <hi>DEus qui Beato Petro Apoſtolo tuo prae<g ref="char:EOLhyphen"/>dixisti in ſenectute ſua per alium fo<g ref="char:EOLhyphen"/>re cingendum, famulum tuum quem</hi> ve <hi>[famulam tuam] quam cingulo noſtrae fra<g ref="char:EOLhyphen"/>ternitatis praecinximus, tua quaeſumus
+<pb n="109" facs="tcp:48468:66"/>chorda ſalutari cor ejus Chriſtiana prae<g ref="char:EOLhyphen"/>cinge diſciplina, ut tui opitulante gratia ſo<g ref="char:EOLhyphen"/>lut us, &amp; liberatus,</hi> vel <hi>[ſoluta &amp; libera<g ref="char:EOLhyphen"/>ta] à vitiis, tuoque vinctus</hi> vel <hi>[vincta] ſervitio, in ſtatu devotionis uſque in finem jugiter perſeveret. Qui vivis &amp; regnas in ſaecula ſaeculorum. Amen.</hi>
+               </p>
+               <p>Benediction is to be given to him or her that takes the Cord.</p>
+               <p>
+                  <hi>BEnedictio Sanctiſſimae Trinitatis, Pa<g ref="char:EOLhyphen"/>tris, &amp; Filii, &amp; Spiritus ſancti, de<g ref="char:EOLhyphen"/>ſcendat ſuper te, ut ſicut chorda corpus tuum circumdas, ita animam fide Jeſu Chriſti, &amp; bonis operibus decores, quate<g ref="char:EOLhyphen"/>nus ſuam gratiam in hoc ſaeculo, &amp; in, fu<g ref="char:EOLhyphen"/>turo gloriam habeas aeternam. Amen.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <pb n="110" facs="tcp:48468:67"/>
+               <head>Litanies of the Paſſion of our Saviour.</head>
+               <epigraph>
+                  <q>
+                     <hi>O all ye that paſs by the way, ſtay a while, and ſee, if there be any dolour like to that of mine: They pierced my hands and feet, diſplaced and numbred all my bones; from the ſole of my feet, to the Crown of my head, there is no health in me.</hi>
+                  </q>
+                  <bibl>Chap. 1. Hier. &amp; Iſa. &amp; Pſalm. 21.</bibl>
+               </epigraph>
+               <lg>
+                  <l>LOrd, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Chriſt, <hi>have mercy upon us,</hi>
+                  </l>
+                  <l>Lord, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Chriſt Jeſu, <hi>hear us.</hi>
+                  </l>
+                  <l>God the Father, which art in Heaven, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>O Jeſus Chriſt, Son of the Father, Redeemer of the world, and our gra<g ref="char:EOLhyphen"/>cious God, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>O holy Ghoſt, which art our God, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>O holy Trinity, one onely God, <hi>have mercy upon us.</hi>
+                  </l>
+                  <pb n="111" facs="tcp:48468:67"/>
+                  <l>Jeſu, who diddeſt waſh the feet of thy Apoſtles, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt ſold for thirty pence, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who haſt given thy precious body and blood unto us, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who prayedſt three times in the Garden, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who diddeſt ſweat water and blood, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who was kiſt by <hi>Judas, have mer<g ref="char:EOLhyphen"/>cy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt taken and bound by the wicked <hi>Jews, have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt preſented to <hi>Annas</hi> and <hi>Caiphas, have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt buffetted by a vile ſer<g ref="char:EOLhyphen"/>vant, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt falſly accuſed, <hi>have mer<g ref="char:EOLhyphen"/>cy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt three times denied of thy ſervant <hi>Peter, have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt delivered up to <hi>Pilate, have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt examined by the Judge, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt found moſt innocent, <hi>have mercy upon us.</hi>
+                  </l>
+                  <pb n="112" facs="tcp:48468:68"/>
+                  <l>Jeſu, who waſt led to <hi>Herod, have mer<g ref="char:EOLhyphen"/>cy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt deſpiſed of <hi>Herod</hi> and his company, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt cloathed like a fool, in a white garment, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt leſs eſteemed than the murtherer <hi>Barrabas, have mercy up<g ref="char:EOLhyphen"/>on us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt bound naked to the pillar, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt cruelly whipt with rods and ſcourges, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt all over goared with wounds, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, whoſe precious blood was ſpilt upon the ground, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, whoſe ſacred face was covered with ſpittings, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt cloathed with purple, and mocked by the <hi>Jews, have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt crowned with thorns, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who carriedſt a Reed, inſtead of a Scepter, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, whoſe ſacred eyes were blind-folded, <hi>have mercy upon us.</hi>
+                  </l>
+                  <pb n="113" facs="tcp:48468:68"/>
+                  <l>Jeſu, whoſe face was ſtroken, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt by <hi>Pilate</hi> ſhewn to the people, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, againſt whom they cry out, <hi>Cru<g ref="char:EOLhyphen"/>cifie him, Crucifie him, have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who, for us, was condemned to death, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt falſly judged, <hi>have mer<g ref="char:EOLhyphen"/>cy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who was delivered unto the hands of the common people, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſus, who waſt loaden with the heavy Croſs, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who with the weight thereof waſt preſt even to the ground, <hi>have mer<g ref="char:EOLhyphen"/>cy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt ſtripped upon Mount Calvary, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt ſtretcht out with cords upon the Croſs, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt nailed to the Croſs, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt lifted up together with the Croſs, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt accompanied with two
+<pb n="114" facs="tcp:48468:69"/>theeves upon the Croſs, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt blaſphemed by thoſe that paſſed by, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who prayedſt for thine enemies, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who gaveſt heaven unto the Thief, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who gaveſt thy B. Mother into the cuſtody of St. <hi>John, have mercy up<g ref="char:EOLhyphen"/>on us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt forſaken of thy Father, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who diddeſt drink vinegar and gall, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who ſaidſt, <hi>All is conſummated, have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who dying, bowedſt down thy ho<g ref="char:EOLhyphen"/>ly head, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, whoſe ſacred ſide was pierced with a Lance, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who did deſt ſhed water and blood, from thy bleeding wound, <hi>have mer<g ref="char:EOLhyphen"/>cy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt taken from the Croſs, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who diddeſt lye dead in the lappe of thy Mother, <hi>have mercy upon us.</hi>
+                  </l>
+                  <pb n="115" facs="tcp:48468:69" rendition="simple:additions"/>
+                  <l>Jeſu, who haſt wrapped in a winding ſheet, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who waſt laid in the Sepulchre, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who by thy death hath ſaved the world, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, who by thy precious blood haſt redeemed us, <hi>have mercy upon us.</hi>
+                  </l>
+                  <l>Jeſu, be propicious unto us.</l>
+                  <l>Jeſu, pardon us.</l>
+                  <l>From all evil, both corporal and ſpiri<g ref="char:EOLhyphen"/>tual, <hi>ſweet Jeſus deliver us.</hi>
+                  </l>
+                  <l>From thy anger and wrath, <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <l>From ſudden death, <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <l>From Plague, Warre, and Fa<g ref="char:EOLhyphen"/>mine, <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <l>From all errors and Hereſies, <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <l>From the ſleights and temptations of the Devil, <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <l>From evil will, <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <l>From all impatience, <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <l>From all exceſs and riot, <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <l>From eternal death, <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <l>By thy prayers and agony, <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <l>By thy bloody ſweat, <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <l>By thy captivity, <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <l>By thy bands and cords, <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <l>By thy buffets, ſpittings, and mock<g ref="char:EOLhyphen"/>ings. <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <pb n="116" facs="tcp:48468:70"/>
+                  <l>By thy whips and ſcourges, <hi>Sweet Jeſus deliver us.</hi>
+                  </l>
+                  <l>By thy Crown of thorns, <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <l>By thy holy Croſs, <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <l>By the nails and hammers, <hi>Sweet Jeſu deliver us.</hi>
+                  </l>
+                  <l>By the ſpunge and ſpear, <hi>Sweet Jeſu de<g ref="char:EOLhyphen"/>liver us.</hi>
+                  </l>
+                  <l>By thy five wounds, <hi>Sweet Jeſu deli<g ref="char:EOLhyphen"/>ver us.</hi>
+                  </l>
+                  <l>By thy precious blood, <hi>Sweet Jeſu de<g ref="char:EOLhyphen"/>liver us.</hi>
+                  </l>
+                  <l>At the hour of death, <hi>Sweet Jeſu deli<g ref="char:EOLhyphen"/>ver me.</hi>
+                  </l>
+                  <l>We ſinners, <hi>Do beſeech thee to hear us.</hi>
+                  </l>
+                  <l>That thou vouchſafe to bring us to true penance, <hi>We beſeech thee to hear us.</hi>
+                  </l>
+                  <l>That thou pardon us, <hi>We beſeech thee to hear us.</hi>
+                  </l>
+                  <l>That thou wilt be pleaſed to cleanſe our ſouls with thy pre<g ref="char:EOLhyphen"/>cious blood. <hi>We beſeech thee to hear us.</hi>
+                  </l>
+                  <l>That thou wilt be pleaſed to de<g ref="char:EOLhyphen"/>fend and exalt thy holy Church. <hi>We beſeech thee to hear us.</hi>
+                  </l>
+                  <l>That thou wilt vouchſafe to pre<g ref="char:EOLhyphen"/>ſerve our holy Father the Pope, and all the Prelates of the holy Church. <hi>We beſeech thee to hear us.</hi>
+                  </l>
+                  <pb n="117" facs="tcp:48468:70" rendition="simple:additions"/>
+                  <l>That thou wilt be pleaſed to main<g ref="char:EOLhyphen"/>tain the Emperour, the Chriſtian Kings and Prin<g ref="char:EOLhyphen"/>ces, in the zeal of the holy Ca<g ref="char:EOLhyphen"/>tholick, Apoſtolick, and Roman faith, <hi>We beſeech thee to hear us.</hi>
+                  </l>
+                  <l>That thou wilt vouchſafe to pre<g ref="char:EOLhyphen"/>ſerve thy people redeemed with thy precious blood, from the in<g ref="char:EOLhyphen"/>fection of Hereſie, <hi>We beſeech thee to hear us.</hi>
+                  </l>
+                  <l>That thou wilt be pleaſed to pro<g ref="char:EOLhyphen"/>tect the Church from the fury of Turks, and tyranny of Hereticks. <hi>We beſeech thee to hear us.</hi>
+                  </l>
+                  <l>That thou wilt vouchſafe to give victory to the Catholick Ar<g ref="char:EOLhyphen"/>mie, <hi>We beſeech thee to hear us.</hi>
+                  </l>
+                  <l>That thou wilt be pleaſed to con<g ref="char:EOLhyphen"/>firm thy Chriſtian People in peace, and union, under the o<g ref="char:EOLhyphen"/>bedience of their temporal and ſpiritual Superiours, <hi>We beſeech thee to hear us.</hi>
+                  </l>
+                  <l>That thou wilt vouchſafe to con<g ref="char:EOLhyphen"/>ſerve the fruits of the earth, <hi>We beſeech thee to hear us.</hi>
+                  </l>
+                  <l>That thou will be pleaſed to deli<g ref="char:EOLhyphen"/>ver the ſouls of our parents, and friends, out of Purgatory, <hi>We beſeech thee to hear us.</hi>
+                  </l>
+                  <l>That thou wilt vouchſafe not to permit thy precious blood to
+<pb n="118" facs="tcp:48468:71"/>be ſhed in vain, <hi>we beſeech thee to hear us.</hi>
+                  </l>
+                  <l>That thou wilt be pleaſed to give unto us all that which is moſt fitting for us, both for ſoul and body, <hi>we be<g ref="char:EOLhyphen"/>ſeech thee to hear us.</hi>
+                  </l>
+                  <l>O ſweet Ieſu, <hi>hear us.</hi>
+                  </l>
+                  <l>Jeſu, Lamb of God, who takeſt away the ſins of the word, <hi>Pardon us.</hi>
+                  </l>
+                  <l>Jeſu, <hi>hear us.</hi>
+                  </l>
+                  <l>
+                     <hi>Verſ.</hi> We adore and bleſs thee, O Je<g ref="char:EOLhyphen"/>ſu.</l>
+                  <l>
+                     <hi>Reſp.</hi> Who haſt redeemed the world, by the holy Croſs.</l>
+               </lg>
+               <p>A Prayer.</p>
+               <p>O Lord God, we humbly beſeech thee to caſt thine eye upon this thy family, for which our Lord Jeſus Chriſt hath not feared to be delivered into the hands of the wicked, and to ſuffer the torment of the Croſs.</p>
+               <p>O moſt merciful Father, we give thee thanks, for that thou haſt not ſpared thy only begotten, and well-beloved Son, our Saviour Jeſus Chriſt; but haſt delivered him up to a ſhameful death,
+<pb n="119" facs="tcp:48468:71"/>for our offences, to the end that there<g ref="char:EOLhyphen"/>by we might be freed from eternal death. Grant, O good God, that we may acknowledge this benefit as we ought; and that by Faith, Hope and Charity we may be made participant thereof. Through Jeſus Chriſt thy Son. <hi>Amen.</hi>
+               </p>
+               <p>O moſt bountiful Saviour Jeſus Chriſt who with ſo precious a Jewel, haſt ſo ſuperabundantly ſatisfied for our ſins, we beſeech thee, by vertue of thy holy death and Paſſion, that thou wilt de<g ref="char:EOLhyphen"/>fend us from the ſnares of the Devil, and allurements of ſin. O thou who dyedſt for mankinde, and liveſt and raigneſt with God the Father, in unity of the holy Ghoſt for ever. <hi>Amen.</hi>
+               </p>
+               <p>O bleſſed Jeſus, who, for the redem<g ref="char:EOLhyphen"/>ption of the world, wouldſt patiently ſuffer injuries, contempts, contumelies, pains, dolours, afflictions, loſs of thy precious blood, and a cruel death; We beſeech thee, by vertue of all theſe thy ſufferings which thou haſt willingly en<g ref="char:EOLhyphen"/>dured for our ſins, that thou wilt de<g ref="char:EOLhyphen"/>liver us from all the perils of this world, and pains of the world to come. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:48468:72"/>
+               <head>Jaculatory Prayers of the Paſsion to be ſaid at every hour.</head>
+               <p n="1">1. MY good Jeſus, in acknowledge<g ref="char:EOLhyphen"/>ment of what thou haſt done, and ſuffered for me in this hour, I of<g ref="char:EOLhyphen"/>fer unto thee my heart and my ſoul. Be thou bleſſed of all Creatures.</p>
+               <p n="2">2. O bleſſed Saviour, give me the Grace not to offend thee in this hour. And I am ſorry for having diſpleaſed thee hitherto.</p>
+               <p n="3">3. Grant me grace, good Jeſu, to endure in this hour, ſomething for thy ſake.</p>
+               <p n="4">4. I offer unto thee, O my Saviour, all that I ſhall do at this hour, in the union of thy holy Paſſion.</p>
+               <p n="5">5. Jeſu, Saviour of the world, be merciful unto me at the hour of my death.</p>
+            </div>
+            <div type="section">
+               <pb n="121" facs="tcp:48468:72"/>
+               <head>LITANIAE PASSIONIS Latinae cantandae in Proceſ<g ref="char:EOLhyphen"/>ſione quae fit Dominica ſe<g ref="char:EOLhyphen"/>cunda cujuſlibet menſis.</head>
+               <p>HUmiliavit ſemetipſum Dominus noſter Jeſus Chriſtus factus obe<g ref="char:EOLhyphen"/>diens uſque ad mortem, mortem autem Crucis, propter quod &amp; Deus exaltavit illum, &amp; dedit illi nomen, quod eſt ſu<g ref="char:EOLhyphen"/>per omne nomen, ut in nomine Jeſu omne genu-flectatur, coeleſtium, terre<g ref="char:EOLhyphen"/>ſtrium &amp; infernorum, &amp; omnis lingua confiteatur, quia Dominus noſter Jeſus Chriſtus in gloria eſt Dei Patris.</p>
+               <lg>
+                  <l>KYrie eleiſon.</l>
+                  <l>Chriſte eleiſon.</l>
+                  <l>Kyrie eleiſon.</l>
+                  <l>Chriſte eleiſon.</l>
+                  <l>Kyrie eleiſon. Chriſte eleiſon.</l>
+                  <l>Kyrie eleiſon. Chriſte eleiſon.</l>
+                  <l>Chriſte audi nos.</l>
+                  <l>Chriſte exaudi nos.</l>
+                  <l>Pater de coelis Deus, miſerere.</l>
+                  <l>Fili Redemptor mundi Deus, miſ. nobis.</l>
+                  <pb n="122" facs="tcp:48468:73"/>
+                  <l>Spiritus ſancte Deus, miſ.</l>
+                  <l>Sancta Trinitas unus Deus, miſ.</l>
+                  <l>Jeſu Chriſte, qui diverſis opprobriis illuſus fuiſti, miſ.</l>
+                  <l>Jeſu Chriſte, qui Pilato traditus fuiſti, miſ.</l>
+                  <l>Jeſu Chriſte qui ad columnam ligatus, &amp; uſque ad ſanguinem verberatus fuiſti, miſ.</l>
+                  <l>Jeſu Chriſte, qui a militibus veſte pur<g ref="char:EOLhyphen"/>purea indutus fuiſti, miſ. nobis.</l>
+                  <l>Jeſu Chriſte, qui ſpinis duriſſimis coro<g ref="char:EOLhyphen"/>natus fuiſti, miſ.</l>
+                  <l>Jeſu Chriſte, qui verbum duriſſimum, Tolle, tolle, crucifige, ſaepius audi<g ref="char:EOLhyphen"/>viſti, miſ.</l>
+                  <l>Jeſu Chriſte, qui dulciſſimum lignum crucis feſſus &amp; oneratus ſuſtinuiſti, miſere nobis.</l>
+                  <l>Jeſu Chriſte, qui in cruce levatus, cum latronibus aſſociatus fuiſti, miſ.</l>
+                  <l>Jeſu Chriſte, qui manibus &amp; pedibus fixis in cruce, a praetereuntibus blaſ<g ref="char:EOLhyphen"/>phematus fuiſti, miſ.</l>
+                  <l>Jeſu Chriſte, qui ſpecioſam faciem tu<g ref="char:EOLhyphen"/>am, quaſi leproſam habuiſti, miſ.</l>
+                  <l>Jeſu Chriſte, qui pro crucifixoribus oraſti ad Patrem, &amp; latronem in
+<pb n="123" facs="tcp:48468:73"/>cruce exaudiſti, miſ</l>
+                  <l>Jeſu Chriſte, qui Mariam matrem tuam dulciſſimam Joanni commendaſti, miſ.</l>
+                  <l>Jeſu Chriſte, qui lancea perforatus fui<g ref="char:EOLhyphen"/>ſti, &amp; proprio ſanguine mundum re<g ref="char:EOLhyphen"/>demiſti, miſ.</l>
+                  <l>Jeſu Chriſte, qui in monumento ſepul<g ref="char:EOLhyphen"/>tus fuiſti, miſ.</l>
+                  <l>Jeſu Chriſte, qui tertia die a mortuis reſurrexiſti, miſ.</l>
+                  <l>Jeſu Chriſte, qui quadrageſima die in. coelum aſcendiſti, miſ.</l>
+                  <l>Jeſu Chriſte, qui ſedes ad dexteram Patris, miſ.</l>
+                  <l>Jeſu Chriſte, qui venturus es judicare vivos &amp; mortuos, miſ.</l>
+                  <l>Agnus Dei qui tollis peccata mundi, parce nobis Domine,</l>
+                  <l>Agnus Dei qui tollis peccata mundi, ex<g ref="char:EOLhyphen"/>audi nos Domine.</l>
+                  <l>Agnus Dei qui tollis peccata mundi, Miſerere nobis.</l>
+                  <l>Kyrie eleiſon. Chriſte eleiſon.</l>
+                  <l>Kyrie eleiſon. Pater noſter, &amp;c.</l>
+                  <l>Et ne nos inducas in tentationem:</l>
+                  <l>Sed libera nos a malo.</l>
+               </lg>
+               <pb n="124" facs="tcp:48468:74"/>
+               <p>Oremus.</p>
+               <p>DOmine Jeſu Chriſte, qui pro ſa<g ref="char:EOLhyphen"/>lute humani generis quinque vul<g ref="char:EOLhyphen"/>nera pati voluiſti, tribue qua ſumus, ut ob reverentiam illorum vulnerum tuo<g ref="char:EOLhyphen"/>orum abſolvi mereamur ab omnibus peccatis noſtris, &amp; da praeſentem vitam bono fine terminari, &amp; a tuae dulciſſimae viſionis contemplatione nunquam ſepa<g ref="char:EOLhyphen"/>parari.</p>
+               <p>Oremus.</p>
+               <p>DEus qui manus tuas, &amp; pedes tuos, &amp; totum corpus tuum pro nobis peccatoribus in ligno crucis poſuiſti, &amp; coronam ſpineam a Judaeis in deſpe<g ref="char:EOLhyphen"/>ctum tui ſacratiſſimi nominis ſuper caput tuum impoſitam ſuſtinuiſti, &amp; quinque vulnera pro nobis peccatori<g ref="char:EOLhyphen"/>bus in ligno crucis paſſus fuiſti: da no<g ref="char:EOLhyphen"/>bis hodie &amp; quotidie uſum poenitentiae, abſtinentiae, patientiae, humilitatis, ca<g ref="char:EOLhyphen"/>ſtitatis, lumen, ſenſum, intellectum, &amp; puram conſcientiam uſque in finem.
+<pb n="125" facs="tcp:48468:74"/>Per te Jeſu Chriſte Salvator mundi. Qui cum Patre &amp; Spiritu ſancto vivis &amp; regnas Deus. Per omnia ſaecula ſae<g ref="char:EOLhyphen"/>culorum. Amen.</p>
+               <p>We have here added the Pro<g ref="char:EOLhyphen"/>feſſion of our Faith, which is of<g ref="char:EOLhyphen"/>ten to be read to confirm our ſelves in the belief of the holy Church, to exerciſe and increaſe our Faith, and obtain the effect of our Prayers, the impetration thereof being attributed to Faith.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="126" facs="tcp:48468:75"/>
+            <head>A PROFESSION OF THE Catholick Faith, Set out according to the Decrees of the holy Council of <hi>Trent.</hi>
+            </head>
+            <p>IAB Do with a ſtead faſt Faith, Believe and Profeſs, all and every Point con<g ref="char:EOLhyphen"/>tained in the Symbol of the Faith that the holy <hi>Roman Church</hi> doth uſe, (to wit)</p>
+            <p>
+               <hi>I do believe in one God, the Father Almighty, Maker of Hea<g ref="char:EOLhyphen"/>ven and Earth, of all things both viſible and inviſible. And in one Lord Jeſus Chriſt, the only begot<g ref="char:EOLhyphen"/>ten Son of God, and born of the
+<pb n="127" facs="tcp:48468:75"/>Father before all Worlds, God of God, Light of Light, true God of true God, begotten, and not made, of the ſame ſubſtance with the Father, by whom all things were made; who for us men, and for our ſalvation, came down from Heaven, and was Incarnate by the Holy Ghoſt of the Virgin</hi> Ma<g ref="char:EOLhyphen"/>ry, <hi>and was made man; was cru<g ref="char:EOLhyphen"/>ciſied alſo for us, under</hi> Pontius Pilate, <hi>ſuffered, and was buried and roſe again the third day, ac<g ref="char:EOLhyphen"/>cording to the Scriptures, and aſ<g ref="char:EOLhyphen"/>cended up to Heaven, ſitteth at the right hand of the Father, and he ſhall come again with Glory to judge the quick and the dead, of whoſe Kingdom there ſhall be no end. And in the Holy Ghoſt our Lord and giver of Life, who pro<g ref="char:EOLhyphen"/>ceedeth from the Father and the Son, who with the Father and the
+<pb n="129" facs="tcp:48468:76"/>Son together, is adored and con<g ref="char:EOLhyphen"/>glorified, who ſpake by the Pro<g ref="char:EOLhyphen"/>phets. And in one holy Catholick and Apoſtolick Church. I profeſs one Baptiſm for the remiſſion of ſins. And I expect the Reſurrecti<g ref="char:EOLhyphen"/>on of the dead, and the life of the world to come.</hi> Amen.</p>
+            <p>
+               <hi>I do ſteadfaſtly admit and em<g ref="char:EOLhyphen"/>brace the Traditions of the Apo<g ref="char:EOLhyphen"/>ſtles and of the Church, and all other Obſervations and Conſtitu<g ref="char:EOLhyphen"/>tions of the ſame Church.</hi>
+            </p>
+            <p>
+               <hi>I do alſo admit the holy Scrip<g ref="char:EOLhyphen"/>tures, according to that ſenſe which our holy Mother the Ca<g ref="char:EOLhyphen"/>tholick Church hath held and doth hold, to whom it appertaineth to judge of the true ſenſe and inter<g ref="char:EOLhyphen"/>pretation of the holy Scriptures: neither will I ever underſtand nor interpret the ſame otherwiſe then according to the uniform
+<pb n="128" facs="tcp:48468:76"/>conſent of the Fathers.</hi>
+            </p>
+            <p>
+               <hi>I do alſo profeſs, that there be truly and properly ſeven Sacra<g ref="char:EOLhyphen"/>ments of the new Law, inſtituted by Jeſus Chriſt our Lord, and neceſſary for the ſalvation of man<g ref="char:EOLhyphen"/>kind (although all be not neceſſary for every one) to wit, Baptiſm, Confirmation, Extream <g ref="char:V">Ʋ</g>nction, Order, and Matrimony; and theſe Sacraments do give Grace, and that of them, Baptiſm, Confirma<g ref="char:EOLhyphen"/>tion, and Order cannot be reitera<g ref="char:EOLhyphen"/>ted without Sacriledge.</hi>
+            </p>
+            <p>
+               <hi>I do alſo receive and admit all the received and approved Cere<g ref="char:EOLhyphen"/>monies of the Catholick Church in the ſolemn adminiſtration of all the aforeſaid Sacraments.</hi>
+            </p>
+            <p>
+               <hi>I do receive and embrace all and every of the things which in the holy Council of</hi> Trent <hi>have been defined and declared touch<g ref="char:EOLhyphen"/>ing
+<pb n="130" facs="tcp:48468:77"/>Original ſin and Juſtifica<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>
+               <hi>I do profeſs alſo, that in the Maſs is offered up to God a true proper and propitiatory Sacrifice for the living and dead; and that in the moſt holy Sacrament of the Altar, there is truly, really, and ſubſtantially the body and blood, together with the Soul and Divi<g ref="char:EOLhyphen"/>nity of our Lord Jeſus Chriſt. And that there is made a Converſion of the whole ſubſtance of the bread into the Body, and of the whole ſubſtance of the wine into the Blood, which Converſion the holy Church calls Tranſubſtantia<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>
+               <hi>I do alſo confeſs, that under either form only, is received Chriſt whole and entire, and the true Sacrament.</hi>
+            </p>
+            <p>
+               <hi>I do conſtantly hold that there
+<pb n="131" facs="tcp:48468:77"/>is Purgatory, and that the Souls which be there detained, are holpen by Prayers of the Faithful.</hi>
+            </p>
+            <p>
+               <hi>Alſo that the Saints, who raign together with Chriſt, are to be honored and called upon, and that they offer up prayers to God for us, and that their Reliques are to be reverenced and honou<g ref="char:EOLhyphen"/>red.</hi>
+            </p>
+            <p>
+               <hi>I do moſt ſteadfaſtly affirm, that the Images of Chriſt, of the Mother of God, always Virgin, and of all Saints, are to be had and retained, and that due honor and reverence is to be given them.</hi>
+            </p>
+            <p>
+               <hi>I affirm that the authority of Indulgences was left by Chriſt in the Church, and that the uſe of them is very behoofeful for Chri<g ref="char:EOLhyphen"/>ſtian People.</hi>
+            </p>
+            <p>
+               <hi>I do acknowledge the holy Ca<g ref="char:EOLhyphen"/>tholick
+<pb n="132" facs="tcp:48468:78"/>and Apoſtolick</hi> Roman Church, <hi>to be the Mother and Mi<g ref="char:EOLhyphen"/>ſtriſs of all Churches. And I do promiſe and ſwear true obedience to the Biſhop of <hi>Rome,</hi> who is the Succeſſor of St. <hi>Peter,</hi> Prince of the Apoſtles, and Vicar of Jeſus Chriſt.</hi>
+            </p>
+            <p>
+               <hi>And all other things alſo defined and declared by the holy Canons and Oecumenical Councils, and chiefly by the holy Council of</hi> Trent, <hi>I do undoubtedly receive and profeſs. And alſo, all contrary things, and whatſoever Hereſies condemned and accurſed by the Church I likewiſe do condemn, reject, and accurſe.</hi>
+            </p>
+            <p>
+               <hi>This true Catholick Faith, without which no man can be ſa<g ref="char:EOLhyphen"/>ved, now I willingly and truly hold the ſame.</hi> A. B. <hi>do promiſe and ſwear to hold and confeſs
+<pb n="133" facs="tcp:48468:78"/>moſt conſtantly, by God his help, entire and uncorrupted even to the laſt end of my life.</hi>
+            </p>
+            <p>
+               <hi>So God help me, and the holy Goſpels of God,</hi> Amen.</p>
+            <epigraph>
+               <q>
+                  <l>Anglia chara Deo, Felix, &amp; Sancta fuiſti</l>
+                  <l>Sis modo qualis eras, ſic pia vota petunt.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48468:79" rendition="simple:additions"/>
+            <pb facs="tcp:48468:79"/>
+         </div>
+      </body>
+   </text>
+</TEI>
